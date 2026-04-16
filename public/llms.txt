@@ -1,0 +1,53 @@
+# Prix Peinture Belgique
+
+> Comparateur de prix de peinture et devis gratuits en Belgique (2026). Intérieur, extérieur, plafonds, boiseries, papier peint. 556 communes couvertes.
+
+## À propos
+
+Prix Peinture Belgique est un comparateur de prix de travaux de peinture pour les particuliers en Belgique. Le site couvre les 3 régions (Wallonie, Bruxelles-Capitale, Flandre) et est disponible en français et en néerlandais.
+
+## Pages principales
+
+- [Accueil](https://prix-peinture-belgique.be/)
+- [Devis gratuit](https://prix-peinture-belgique.be/devis/)
+- [Peinture intérieure](https://prix-peinture-belgique.be/peinture-interieure/)
+- [Peinture extérieure](https://prix-peinture-belgique.be/peinture-exterieure/)
+- [Peinture plafonds](https://prix-peinture-belgique.be/peinture-plafond/)
+- [Boiseries & portes](https://prix-peinture-belgique.be/boiseries-portes/)
+- [Papier peint](https://prix-peinture-belgique.be/papier-peint/)
+- [Préparation murs](https://prix-peinture-belgique.be/preparation-murs/)
+- [Tarif peintre 2026](https://prix-peinture-belgique.be/tarif-peintre/)
+- [Guides](https://prix-peinture-belgique.be/guides/)
+- [FAQ](https://prix-peinture-belgique.be/faq/)
+- [Communes (556)](https://prix-peinture-belgique.be/peintre/)
+
+## Prix indicatifs 2026
+
+| Type de travaux | Prix min | Prix max | Unité |
+|---|---|---|---|
+| Peinture murs intérieur (standard) | 15€ | 25€ | /m² |
+| Peinture murs intérieur (premium) | 25€ | 40€ | /m² |
+| Peinture plafonds | 20€ | 35€ | /m² |
+| Peinture extérieure / façade | 15€ | 40€ | /m² |
+| Laquage portes | 30€ | 55€ | /porte |
+| Papier peint (pose) | 20€ | 45€ | /m² |
+| Préparation murs | 8€ | 20€ | /m² |
+
+## Tarifs horaires peintres
+
+| Profil | Tarif min | Tarif max | Zone |
+|---|---|---|---|
+| Peintre indépendant | 25€/h | 35€/h | Wallonie |
+| Peintre indépendant | 30€/h | 40€/h | Bruxelles |
+| Peintre indépendant | 30€/h | 45€/h | Flandre |
+| Entreprise de peinture | 35€/h | 50€/h | Belgique |
+
+## TVA
+
+- TVA 6% pour les logements de plus de 10 ans (main-d'œuvre + matériaux fournis par le peintre)
+- TVA 21% pour les constructions neuves (moins de 10 ans)
+
+## Langues
+
+- Français: https://prix-peinture-belgique.be/
+- Nederlands: https://prix-peinture-belgique.be/nl/

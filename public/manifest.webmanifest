@@ -1,0 +1,16 @@
+{
+  "name": "Prix Peinture Belgique",
+  "short_name": "PrixPeinture.be",
+  "description": "Comparez les prix de peinture en Belgique 2026. Devis gratuit de peintres professionnels.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#0f0f23",
+  "theme_color": "#5B6ABF",
+  "icons": [
+    {
+      "src": "/icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml"
+    }
+  ]
+}

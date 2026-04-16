@@ -1,0 +1,7534 @@
+[
+  {
+    "name": "Anderlecht",
+    "slug": "anderlecht-1070",
+    "zip": "1070",
+    "province_name": "Bruxelles-Capitale",
+    "province_code": "BXL",
+    "region": "Bruxelles-Capitale",
+    "coordinates": {
+      "lat": 50.8366,
+      "lng": 4.307
+    },
+    "population": 120526,
+    "name_nl": "Anderlecht"
+  },
+  {
+    "name": "Auderghem",
+    "slug": "auderghem-1160",
+    "zip": "1160",
+    "province_name": "Bruxelles-Capitale",
+    "province_code": "BXL",
+    "region": "Bruxelles-Capitale",
+    "coordinates": {
+      "lat": 50.8167,
+      "lng": 4.4333
+    },
+    "population": 34032,
+    "name_nl": "Oudergem"
+  },
+  {
+    "name": "Berchem-Sainte-Agathe",
+    "slug": "berchem-sainte-agathe-1082",
+    "zip": "1082",
+    "province_name": "Bruxelles-Capitale",
+    "province_code": "BXL",
+    "region": "Bruxelles-Capitale",
+    "coordinates": {
+      "lat": 50.8667,
+      "lng": 4.2917
+    },
+    "population": 25175,
+    "name_nl": "Sint-Agatha-Berchem"
+  },
+  {
+    "name": "Bruxelles",
+    "slug": "bruxelles-1000",
+    "zip": "1000",
+    "province_name": "Bruxelles-Capitale",
+    "province_code": "BXL",
+    "region": "Bruxelles-Capitale",
+    "coordinates": {
+      "lat": 50.8503,
+      "lng": 4.3517
+    },
+    "population": 185103,
+    "name_nl": "Brussel"
+  },
+  {
+    "name": "Etterbeek",
+    "slug": "etterbeek-1040",
+    "zip": "1040",
+    "province_name": "Bruxelles-Capitale",
+    "province_code": "BXL",
+    "region": "Bruxelles-Capitale",
+    "coordinates": {
+      "lat": 50.8381,
+      "lng": 4.3886
+    },
+    "population": 48365,
+    "name_nl": "Etterbeek"
+  },
+  {
+    "name": "Evere",
+    "slug": "evere-1140",
+    "zip": "1140",
+    "province_name": "Bruxelles-Capitale",
+    "province_code": "BXL",
+    "region": "Bruxelles-Capitale",
+    "coordinates": {
+      "lat": 50.8667,
+      "lng": 4.4
+    },
+    "population": 42693,
+    "name_nl": "Evere"
+  },
+  {
+    "name": "Forest",
+    "slug": "forest-1190",
+    "zip": "1190",
+    "province_name": "Bruxelles-Capitale",
+    "province_code": "BXL",
+    "region": "Bruxelles-Capitale",
+    "coordinates": {
+      "lat": 50.81,
+      "lng": 4.32
+    },
+    "population": 56289,
+    "name_nl": "Vorst"
+  },
+  {
+    "name": "Ganshoren",
+    "slug": "ganshoren-1083",
+    "zip": "1083",
+    "province_name": "Bruxelles-Capitale",
+    "province_code": "BXL",
+    "region": "Bruxelles-Capitale",
+    "coordinates": {
+      "lat": 50.875,
+      "lng": 4.3083
+    },
+    "population": 24885,
+    "name_nl": "Ganshoren"
+  },
+  {
+    "name": "Ixelles",
+    "slug": "ixelles-1050",
+    "zip": "1050",
+    "province_name": "Bruxelles-Capitale",
+    "province_code": "BXL",
+    "region": "Bruxelles-Capitale",
+    "coordinates": {
+      "lat": 50.8275,
+      "lng": 4.3719
+    },
+    "population": 87517,
+    "name_nl": "Elsene"
+  },
+  {
+    "name": "Jette",
+    "slug": "jette-1090",
+    "zip": "1090",
+    "province_name": "Bruxelles-Capitale",
+    "province_code": "BXL",
+    "region": "Bruxelles-Capitale",
+    "coordinates": {
+      "lat": 50.8783,
+      "lng": 4.3244
+    },
+    "population": 52536,
+    "name_nl": "Jette"
+  },
+  {
+    "name": "Koekelberg",
+    "slug": "koekelberg-1081",
+    "zip": "1081",
+    "province_name": "Bruxelles-Capitale",
+    "province_code": "BXL",
+    "region": "Bruxelles-Capitale",
+    "coordinates": {
+      "lat": 50.8633,
+      "lng": 4.3317
+    },
+    "population": 22121,
+    "name_nl": "Koekelberg"
+  },
+  {
+    "name": "Molenbeek-Saint-Jean",
+    "slug": "molenbeek-saint-jean-1080",
+    "zip": "1080",
+    "province_name": "Bruxelles-Capitale",
+    "province_code": "BXL",
+    "region": "Bruxelles-Capitale",
+    "coordinates": {
+      "lat": 50.856,
+      "lng": 4.325
+    },
+    "population": 97462,
+    "name_nl": "Sint-Jans-Molenbeek"
+  },
+  {
+    "name": "Saint-Gilles",
+    "slug": "saint-gilles-1060",
+    "zip": "1060",
+    "province_name": "Bruxelles-Capitale",
+    "province_code": "BXL",
+    "region": "Bruxelles-Capitale",
+    "coordinates": {
+      "lat": 50.8267,
+      "lng": 4.3467
+    },
+    "population": 50471,
+    "name_nl": "Sint-Gillis"
+  },
+  {
+    "name": "Saint-Josse-ten-Noode",
+    "slug": "saint-josse-ten-noode-1210",
+    "zip": "1210",
+    "province_name": "Bruxelles-Capitale",
+    "province_code": "BXL",
+    "region": "Bruxelles-Capitale",
+    "coordinates": {
+      "lat": 50.855,
+      "lng": 4.3717
+    },
+    "population": 27747,
+    "name_nl": "Sint-Joost-ten-Node"
+  },
+  {
+    "name": "Schaerbeek",
+    "slug": "schaerbeek-1030",
+    "zip": "1030",
+    "province_name": "Bruxelles-Capitale",
+    "province_code": "BXL",
+    "region": "Bruxelles-Capitale",
+    "coordinates": {
+      "lat": 50.8676,
+      "lng": 4.3792
+    },
+    "population": 133042,
+    "name_nl": "Schaarbeek"
+  },
+  {
+    "name": "Uccle",
+    "slug": "uccle-1180",
+    "zip": "1180",
+    "province_name": "Bruxelles-Capitale",
+    "province_code": "BXL",
+    "region": "Bruxelles-Capitale",
+    "coordinates": {
+      "lat": 50.8,
+      "lng": 4.3333
+    },
+    "population": 83024,
+    "name_nl": "Ukkel"
+  },
+  {
+    "name": "Watermael-Boitsfort",
+    "slug": "watermael-boitsfort-1170",
+    "zip": "1170",
+    "province_name": "Bruxelles-Capitale",
+    "province_code": "BXL",
+    "region": "Bruxelles-Capitale",
+    "coordinates": {
+      "lat": 50.8,
+      "lng": 4.4
+    },
+    "population": 25326,
+    "name_nl": "Watermaal-Bosvoorde"
+  },
+  {
+    "name": "Woluwe-Saint-Lambert",
+    "slug": "woluwe-saint-lambert-1200",
+    "zip": "1200",
+    "province_name": "Bruxelles-Capitale",
+    "province_code": "BXL",
+    "region": "Bruxelles-Capitale",
+    "coordinates": {
+      "lat": 50.85,
+      "lng": 4.4333
+    },
+    "population": 56090,
+    "name_nl": "Sint-Lambrechts-Woluwe"
+  },
+  {
+    "name": "Woluwe-Saint-Pierre",
+    "slug": "woluwe-saint-pierre-1150",
+    "zip": "1150",
+    "province_name": "Bruxelles-Capitale",
+    "province_code": "BXL",
+    "region": "Bruxelles-Capitale",
+    "coordinates": {
+      "lat": 50.8333,
+      "lng": 4.4167
+    },
+    "population": 41882,
+    "name_nl": "Sint-Pieters-Woluwe"
+  },
+  {
+    "name": "Beauvechain",
+    "slug": "beauvechain-1320",
+    "zip": "1320",
+    "province_name": "Brabant wallon",
+    "province_code": "BW",
+    "region": "Wallonie",
+    "coordinates": {
+      "lat": 50.7833,
+      "lng": 4.7667
+    },
+    "population": 7200
+  },
+  {
+    "name": "Braine-l'Alleud",
+    "slug": "braine-lalleud-1420",
+    "zip": "1420",
+    "province_name": "Brabant wallon",
+    "province_code": "BW",
+    "region": "Wallonie",
+    "coordinates": {
+      "lat": 50.6833,
+      "lng": 4.3667
+    },
+    "population": 40394
+  },
+  {
+    "name": "Braine-le-Château",
+    "slug": "braine-le-chateau-1440",
+    "zip": "1440",
+    "province_name": "Brabant wallon",
+    "province_code": "BW",
+    "region": "Wallonie",
+    "coordinates": {
+      "lat": 50.6833,
+      "lng": 4.2667
+    },
+    "population": 10742
+  },
+  {
+    "name": "Chastre",
+    "slug": "chastre-1450",
+    "zip": "1450",
+    "province_name": "Brabant wallon",
+    "province_code": "BW",
+    "region": "Wallonie",
+    "coordinates": {
+      "lat": 50.5833,
+      "lng": 4.6333
+    },
+    "population": 7825
+  },
+  {
+    "name": "Chaumont-Gistoux",
+    "slug": "chaumont-gistoux-1325",
+    "zip": "1325",
+    "province_name": "Brabant wallon",
+    "province_code": "BW",
+    "region": "Wallonie",
+    "coordinates": {
+      "lat": 50.7167,
+      "lng": 4.7
+    },
+    "population": 11800
+  },
+  {
+    "name": "Court-Saint-Étienne",
+    "slug": "court-saint-etienne-1490",
+    "zip": "1490",
+    "province_name": "Brabant wallon",
+    "province_code": "BW",
+    "region": "Wallonie",
+    "coordinates": {
+      "lat": 50.6333,
+      "lng": 4.5667
+    },
+    "population": 10582
+  },
+  {
+    "name": "Genappe",
+    "slug": "genappe-1470",
+    "zip": "1470",
+    "province_name": "Brabant wallon",
+    "province_code": "BW",
+    "region": "Wallonie",
+    "coordinates": {
+      "lat": 50.6167,
+      "lng": 4.45
+    },
+    "population": 16107
+  },
+  {
+    "name": "Hélécine",
+    "slug": "helecine-1357",
+    "zip": "1357",
+    "province_name": "Brabant wallon",
+    "province_code": "BW",
+    "region": "Wallonie",
+    "coordinates": {
+      "lat": 50.7333,
+      "lng": 5.0833
+    },
+    "population": 3500
+  },
+  {
+    "name": "Incourt",
+    "slug": "incourt-1315",
+    "zip": "1315",
+    "province_name": "Brabant wallon",
+    "province_code": "BW",
+    "region": "Wallonie",
+    "coordinates": {
+      "lat": 50.6833,
+      "lng": 4.8
+    },
+    "population": 5200
+  },
+  {
+    "name": "Ittre",
+    "slug": "ittre-1460",
+    "zip": "1460",
+    "province_name": "Brabant wallon",
+    "province_code": "BW",
+    "region": "Wallonie",
+    "coordinates": {
+      "lat": 50.6333,
+      "lng": 4.2667
+    },
+    "population": 7233
+  },
+  {
+    "name": "Jodoigne",
+    "slug": "jodoigne-1370",
+    "zip": "1370",
+    "province_name": "Brabant wallon",
+    "province_code": "BW",
+    "region": "Wallonie",
+    "coordinates": {
+      "lat": 50.725,
+      "lng": 4.8667
+    },
+    "population": 14424
+  },
+  {
+    "name": "La Hulpe",
+    "slug": "la-hulpe-1310",
+    "zip": "1310",
+    "province_name": "Brabant wallon",
+    "province_code": "BW",
+    "region": "Wallonie",
+    "coordinates": {
+      "lat": 50.7333,
+      "lng": 4.4833
+    },
+    "population": 7500
+  },
+  {
+    "name": "Lasne",
+    "slug": "lasne-1380",
+    "zip": "1380",
+    "province_name": "Brabant wallon",
+    "province_code": "BW",
+    "region": "Wallonie",
+    "coordinates": {
+      "lat": 50.6833,
+      "lng": 4.5
+    },
+    "population": 14200
+  },
+  {
+    "name": "Mont-Saint-Guibert",
+    "slug": "mont-saint-guibert-1435",
+    "zip": "1435",
+    "province_name": "Brabant wallon",
+    "province_code": "BW",
+    "region": "Wallonie",
+    "coordinates": {
+      "lat": 50.6333,
+      "lng": 4.6167
+    },
+    "population": 7564
+  },
+  {
+    "name": "Nivelles",
+    "slug": "nivelles-1400",
+    "zip": "1400",
+    "province_name": "Brabant wallon",
+    "province_code": "BW",
+    "region": "Wallonie",
+    "coordinates": {
+      "lat": 50.5989,
+      "lng": 4.3292
+    },
+    "population": 28929
+  },
+  {
+    "name": "Orp-Jauche",
+    "slug": "orp-jauche-1350",
+    "zip": "1350",
+    "province_name": "Brabant wallon",
+    "province_code": "BW",
+    "region": "Wallonie",
+    "coordinates": {
+      "lat": 50.7167,
+      "lng": 4.9833
+    },
+    "population": 8800
+  },
+  {
+    "name": "Ottignies-Louvain-la-Neuve",
+    "slug": "ottignies-louvain-la-neuve-1340",
+    "zip": "1340",
+    "province_name": "Brabant wallon",
+    "province_code": "BW",
+    "region": "Wallonie",
+    "coordinates": {
+      "lat": 50.6667,
+      "lng": 4.5667
+    },
+    "population": 32399
+  },
+  {
+    "name": "Perwez",
+    "slug": "perwez-1360",
+    "zip": "1360",
+    "province_name": "Brabant wallon",
+    "province_code": "BW",
+    "region": "Wallonie",
+    "coordinates": {
+      "lat": 50.6333,
+      "lng": 4.8167
+    },
+    "population": 9452
+  },
+  {
+    "name": "Ramillies",
+    "slug": "ramillies-1367",
+    "zip": "1367",
+    "province_name": "Brabant wallon",
+    "province_code": "BW",
+    "region": "Wallonie",
+    "coordinates": {
+      "lat": 50.6333,
+      "lng": 4.9
+    },
+    "population": 6300
+  },
+  {
+    "name": "Rebecq",
+    "slug": "rebecq-1430",
+    "zip": "1430",
+    "province_name": "Brabant wallon",
+    "province_code": "BW",
+    "region": "Wallonie",
+    "coordinates": {
+      "lat": 50.6667,
+      "lng": 4.1333
+    },
+    "population": 10914
+  },
+  {
+    "name": "Rixensart",
+    "slug": "rixensart-1330",
+    "zip": "1330",
+    "province_name": "Brabant wallon",
+    "province_code": "BW",
+    "region": "Wallonie",
+    "coordinates": {
+      "lat": 50.7167,
+      "lng": 4.5333
+    },
+    "population": 22645
+  },
+  {
+    "name": "Tubize",
+    "slug": "tubize-1480",
+    "zip": "1480",
+    "province_name": "Brabant wallon",
+    "province_code": "BW",
+    "region": "Wallonie",
+    "coordinates": {
+      "lat": 50.6917,
+      "lng": 4.2
+    },
+    "population": 26199
+  },
+  {
+    "name": "Villers-la-Ville",
+    "slug": "villers-la-ville-1495",
+    "zip": "1495",
+    "province_name": "Brabant wallon",
+    "province_code": "BW",
+    "region": "Wallonie",
+    "coordinates": {
+      "lat": 50.5833,
+      "lng": 4.5333
+    },
+    "population": 10697
+  },
+  {
+    "name": "Walhain",
+    "slug": "walhain-1457",
+    "zip": "1457",
+    "province_name": "Brabant wallon",
+    "province_code": "BW",
+    "region": "Wallonie",
+    "coordinates": {
+      "lat": 50.6167,
+      "lng": 4.6833
+    },
+    "population": 7267
+  },
+  {
+    "name": "Waterloo",
+    "slug": "waterloo-1410",
+    "zip": "1410",
+    "province_name": "Brabant wallon",
+    "province_code": "BW",
+    "region": "Wallonie",
+    "coordinates": {
+      "lat": 50.7167,
+      "lng": 4.4
+    },
+    "population": 30382
+  },
+  {
+    "name": "Wavre",
+    "slug": "wavre-1300",
+    "zip": "1300",
+    "province_name": "Brabant wallon",
+    "province_code": "BW",
+    "region": "Wallonie",
+    "coordinates": {
+      "lat": 50.7167,
+      "lng": 4.6
+    },
+    "population": 34487
+  },
+  {
+    "name": "Aiseau-Presles",
+    "slug": "aiseau-presles-6250",
+    "zip": "6250",
+    "province_name": "Hainaut",
+    "province_code": "HT",
+    "region": "Wallonie",
+    "coordinates": {
+      "lat": 50.4,
+      "lng": 4.5833
+    },
+    "population": 10963
+  },
+  {
+    "name": "Anderlues",
+    "slug": "anderlues-6150",
+    "zip": "6150",
+    "province_name": "Hainaut",
+    "province_code": "HT",
+    "region": "Wallonie",
+    "coordinates": {
+      "lat": 50.4,
+      "lng": 4.2667
+    },
+    "population": 12195
+  },
+  {
+    "name": "Antoing",
+    "slug": "antoing-7640",
+    "zip": "7640",
+    "province_name": "Hainaut",
+    "province_code": "HT",
+    "region": "Wallonie",
+    "coordinates": {
+      "lat": 50.5667,
+      "lng": 3.45
+    },
+    "population": 7864
+  },
+  {
+    "name": "Ath",
+    "slug": "ath-7800",
+    "zip": "7800",
+    "province_name": "Hainaut",
+    "province_code": "HT",
+    "region": "Wallonie",
+    "coordinates": {
+      "lat": 50.6294,
+      "lng": 3.7781
+    },
+    "population": 29655
+  },
+  {
+    "name": "Beaumont",
+    "slug": "beaumont-6500",
+    "zip": "6500",
+    "province_name": "Hainaut",
+    "province_code": "HT",
+    "region": "Wallonie",
+    "coordinates": {
+      "lat": 50.2333,
+      "lng": 4.2333
+    },
+    "population": 7294
+  },
+  {
+    "name": "Beloeil",
+    "slug": "beloeil-7970",
+    "zip": "7970",
+    "province_name": "Hainaut",
+    "province_code": "HT",
+    "region": "Wallonie",
+    "coordinates": {
+      "lat": 50.55,
+      "lng": 3.7333
+    },
+    "population": 14025
+  },
+  {
+    "name": "Bernissart",
+    "slug": "bernissart-7320",
+    "zip": "7320",
+    "province_name": "Hainaut",
+    "province_code": "HT",
+    "region": "Wallonie",
+    "coordinates": {
+      "lat": 50.4833,
+      "lng": 3.65
+    },
+    "population": 11779
+  },
+  {
+    "name": "Binche",
+    "slug": "binche-7130",
+    "zip": "7130",
+    "province_name": "Hainaut",
+    "province_code": "HT",
+    "region": "Wallonie",
+    "coordinates": {
+      "lat": 50.4114,
+      "lng": 4.1647
+    },
+    "population": 33431
+  },
+  {
+    "name": "Boussu",
+    "slug": "boussu-7300",
+    "zip": "7300",
+    "province_name": "Hainaut",
+    "province_code": "HT",
+    "region": "Wallonie",
+    "coordinates": {
+      "lat": 50.4333,
+      "lng": 3.8
+    },
+    "population": 20216
+  },
+  {
+    "name": "Braine-le-Comte",
+    "slug": "braine-le-comte-7090",
+    "zip": "7090",
+    "province_name": "Hainaut",
+    "province_code": "HT",
+    "region": "Wallonie",
+    "coordinates": {
+      "lat": 50.61,
+      "lng": 4.1317
+    },
+    "population": 22285
+  },
+  {
+    "name": "Brugelette",
+    "slug": "brugelette-7940",
+    "zip": "7940",
+    "province_name": "Hainaut",
+    "province_code": "HT",
+    "region": "Wallonie",
+    "coordinates": {
+      "lat": 50.5833,
+      "lng": 3.85
+    },
+    "population": 3600
+  },
+  {
+    "name": "Brunehaut",
+    "slug": "brunehaut-7620",
+    "zip": "7620",
+    "province_name": "Hainaut",
+    "province_code": "HT",
+    "region": "Wallonie",
+    "coordinates": {
+      "lat": 50.5,
+      "lng": 3.4
+    },
+    "population": 8100
+  },
+  {
+    "name": "Celles",
+    "slug": "celles-7760",
+    "zip": "7760",
+    "province_name": "Hainaut",
+    "province_code": "HT",
+    "region": "Wallonie",
+    "coordinates": {
+      "lat": 50.7,
+      "lng": 3.45
+    },
+    "population": 5678
+  },
+  {
+    "name": "Cerfontaine",
+    "slug": "cerfontaine-5630",
+    "zip": "5630",
+    "province_name": "Hainaut",
+    "province_code": "HT",
+    "region": "Wallonie",
+    "coordinates": {
+      "lat": 50.1667,
+      "lng": 4.3833
+    },
+    "population": 4900
+  },
+  {
+    "name": "Chapelle-lez-Herlaimont",
+    "slug": "chapelle-lez-herlaimont-7160",
+    "zip": "7160",
+    "province_name": "Hainaut",
+    "province_code": "HT",
+    "region": "Wallonie",
+    "coordinates": {
+      "lat": 50.4667,
+      "lng": 4.2833
+    },
+    "population": 14845
+  },
+  {
+    "name": "Charleroi",
+    "slug": "charleroi-6000",
+    "zip": "6000",
+    "province_name": "Hainaut",
+    "province_code": "HT",
+    "region": "Wallonie",
+    "coordinates": {
+      "lat": 50.4108,
+      "lng": 4.4446
+    },
+    "population": 202480
+  },
+  {
+    "name": "Chimay",
+    "slug": "chimay-6460",
+    "zip": "6460",
+    "province_name": "Hainaut",
+    "province_code": "HT",
+    "region": "Wallonie",
+    "coordinates": {
+      "lat": 50.05,
+      "lng": 4.3167
+    },
+    "population": 9979
+  },
+  {
+    "name": "Chièvres",
+    "slug": "chievres-7950",
+    "zip": "7950",
+    "province_name": "Hainaut",
+    "province_code": "HT",
+    "region": "Wallonie",
+    "coordinates": {
+      "lat": 50.5833,
+      "lng": 3.8
+    },
+    "population": 6976
+  },
+  {
+    "name": "Châtelet",
+    "slug": "chatelet-6200",
+    "zip": "6200",
+    "province_name": "Hainaut",
+    "province_code": "HT",
+    "region": "Wallonie",
+    "coordinates": {
+      "lat": 50.4,
+      "lng": 4.5333
+    },
+    "population": 36131
+  },
+  {
+    "name": "Colfontaine",
+    "slug": "colfontaine-7340",
+    "zip": "7340",
+    "province_name": "Hainaut",
+    "province_code": "HT",
+    "region": "Wallonie",
+    "coordinates": {
+      "lat": 50.4,
+      "lng": 3.85
+    },
+    "population": 20680
+  },
+  {
+    "name": "Comines-Warneton",
+    "slug": "comines-warneton-7780",
+    "zip": "7780",
+    "province_name": "Hainaut",
+    "province_code": "HT",
+    "region": "Wallonie",
+    "coordinates": {
+      "lat": 50.7667,
+      "lng": 3.0
+    },
+    "population": 18160
+  },
+  {
+    "name": "Courcelles",
+    "slug": "courcelles-6180",
+    "zip": "6180",
+    "province_name": "Hainaut",
+    "province_code": "HT",
+    "region": "Wallonie",
+    "coordinates": {
+      "lat": 50.4633,
+      "lng": 4.3717
+    },
+    "population": 31272
+  },
+  {
+    "name": "Dour",
+    "slug": "dour-7370",
+    "zip": "7370",
+    "province_name": "Hainaut",
+    "province_code": "HT",
+    "region": "Wallonie",
+    "coordinates": {
+      "lat": 50.3967,
+      "lng": 3.7775
+    },
+    "population": 17241
+  },
+  {
+    "name": "Ecaussinnes",
+    "slug": "ecaussinnes-7190",
+    "zip": "7190",
+    "province_name": "Hainaut",
+    "province_code": "HT",
+    "region": "Wallonie",
+    "coordinates": {
+      "lat": 50.5667,
+      "lng": 4.1667
+    },
+    "population": 11305
+  },
+  {
+    "name": "Ellezelles",
+    "slug": "ellezelles-7890",
+    "zip": "7890",
+    "province_name": "Hainaut",
+    "province_code": "HT",
+    "region": "Wallonie",
+    "coordinates": {
+      "lat": 50.7333,
+      "lng": 3.6833
+    },
+    "population": 5900
+  },
+  {
+    "name": "Enghien",
+    "slug": "enghien-7850",
+    "zip": "7850",
+    "province_name": "Hainaut",
+    "province_code": "HT",
+    "region": "Wallonie",
+    "coordinates": {
+      "lat": 50.6911,
+      "lng": 4.0375
+    },
+    "population": 14005
+  },
+  {
+    "name": "Erquelinnes",
+    "slug": "erquelinnes-6560",
+    "zip": "6560",
+    "province_name": "Hainaut",
+    "province_code": "HT",
+    "region": "Wallonie",
+    "coordinates": {
+      "lat": 50.3,
+      "lng": 4.1167
+    },
+    "population": 10037
+  },
+  {
+    "name": "Estaimpuis",
+    "slug": "estaimpuis-7730",
+    "zip": "7730",
+    "province_name": "Hainaut",
+    "province_code": "HT",
+    "region": "Wallonie",
+    "coordinates": {
+      "lat": 50.7,
+      "lng": 3.2667
+    },
+    "population": 10308
+  },
+  {
+    "name": "Estinnes",
+    "slug": "estinnes-7120",
+    "zip": "7120",
+    "province_name": "Hainaut",
+    "province_code": "HT",
+    "region": "Wallonie",
+    "coordinates": {
+      "lat": 50.3833,
+      "lng": 4.1
+    },
+    "population": 7906
+  },
+  {
+    "name": "Farciennes",
+    "slug": "farciennes-6240",
+    "zip": "6240",
+    "province_name": "Hainaut",
+    "province_code": "HT",
+    "region": "Wallonie",
+    "coordinates": {
+      "lat": 50.4333,
+      "lng": 4.55
+    },
+    "population": 11613
+  },
+  {
+    "name": "Fleurus",
+    "slug": "fleurus-6220",
+    "zip": "6220",
+    "province_name": "Hainaut",
+    "province_code": "HT",
+    "region": "Wallonie",
+    "coordinates": {
+      "lat": 50.4833,
+      "lng": 4.55
+    },
+    "population": 23047
+  },
+  {
+    "name": "Flobecq",
+    "slug": "flobecq-7880",
+    "zip": "7880",
+    "province_name": "Hainaut",
+    "province_code": "HT",
+    "region": "Wallonie",
+    "coordinates": {
+      "lat": 50.75,
+      "lng": 3.7333
+    },
+    "population": 3600
+  },
+  {
+    "name": "Fontaine-l'Évêque",
+    "slug": "fontaine-leveque-6140",
+    "zip": "6140",
+    "province_name": "Hainaut",
+    "province_code": "HT",
+    "region": "Wallonie",
+    "coordinates": {
+      "lat": 50.3989,
+      "lng": 4.3283
+    },
+    "population": 17685
+  },
+  {
+    "name": "Frameries",
+    "slug": "frameries-7080",
+    "zip": "7080",
+    "province_name": "Hainaut",
+    "province_code": "HT",
+    "region": "Wallonie",
+    "coordinates": {
+      "lat": 50.4078,
+      "lng": 3.8964
+    },
+    "population": 21956
+  },
+  {
+    "name": "Frasnes-lez-Anvaing",
+    "slug": "frasnes-lez-anvaing-7910",
+    "zip": "7910",
+    "province_name": "Hainaut",
+    "province_code": "HT",
+    "region": "Wallonie",
+    "coordinates": {
+      "lat": 50.6667,
+      "lng": 3.5833
+    },
+    "population": 11500
+  },
+  {
+    "name": "Froidchapelle",
+    "slug": "froidchapelle-6440",
+    "zip": "6440",
+    "province_name": "Hainaut",
+    "province_code": "HT",
+    "region": "Wallonie",
+    "coordinates": {
+      "lat": 50.15,
+      "lng": 4.3333
+    },
+    "population": 3800
+  },
+  {
+    "name": "Gerpinnes",
+    "slug": "gerpinnes-6280",
+    "zip": "6280",
+    "province_name": "Hainaut",
+    "province_code": "HT",
+    "region": "Wallonie",
+    "coordinates": {
+      "lat": 50.3333,
+      "lng": 4.5167
+    },
+    "population": 12709
+  },
+  {
+    "name": "Ham-sur-Heure-Nalinnes",
+    "slug": "ham-sur-heure-nalinnes-6120",
+    "zip": "6120",
+    "province_name": "Hainaut",
+    "province_code": "HT",
+    "region": "Wallonie",
+    "coordinates": {
+      "lat": 50.3167,
+      "lng": 4.3833
+    },
+    "population": 14178
+  },
+  {
+    "name": "Hensies",
+    "slug": "hensies-7350",
+    "zip": "7350",
+    "province_name": "Hainaut",
+    "province_code": "HT",
+    "region": "Wallonie",
+    "coordinates": {
+      "lat": 50.4333,
+      "lng": 3.6833
+    },
+    "population": 6900
+  },
+  {
+    "name": "Honnelles",
+    "slug": "honnelles-7387",
+    "zip": "7387",
+    "province_name": "Hainaut",
+    "province_code": "HT",
+    "region": "Wallonie",
+    "coordinates": {
+      "lat": 50.35,
+      "lng": 3.7167
+    },
+    "population": 5200
+  },
+  {
+    "name": "Jurbise",
+    "slug": "jurbise-7050",
+    "zip": "7050",
+    "province_name": "Hainaut",
+    "province_code": "HT",
+    "region": "Wallonie",
+    "coordinates": {
+      "lat": 50.5333,
+      "lng": 3.9167
+    },
+    "population": 10459
+  },
+  {
+    "name": "La Louvière",
+    "slug": "la-louviere-7100",
+    "zip": "7100",
+    "province_name": "Hainaut",
+    "province_code": "HT",
+    "region": "Wallonie",
+    "coordinates": {
+      "lat": 50.4714,
+      "lng": 4.1858
+    },
+    "population": 80986
+  },
+  {
+    "name": "Le Roeulx",
+    "slug": "le-roeulx-7070",
+    "zip": "7070",
+    "province_name": "Hainaut",
+    "province_code": "HT",
+    "region": "Wallonie",
+    "coordinates": {
+      "lat": 50.5,
+      "lng": 4.1167
+    },
+    "population": 8555
+  },
+  {
+    "name": "Lens",
+    "slug": "lens-7870",
+    "zip": "7870",
+    "province_name": "Hainaut",
+    "province_code": "HT",
+    "region": "Wallonie",
+    "coordinates": {
+      "lat": 50.55,
+      "lng": 3.85
+    },
+    "population": 4400
+  },
+  {
+    "name": "Lessines",
+    "slug": "lessines-7860",
+    "zip": "7860",
+    "province_name": "Hainaut",
+    "province_code": "HT",
+    "region": "Wallonie",
+    "coordinates": {
+      "lat": 50.7117,
+      "lng": 3.8333
+    },
+    "population": 18692
+  },
+  {
+    "name": "Leuze-en-Hainaut",
+    "slug": "leuze-en-hainaut-7900",
+    "zip": "7900",
+    "province_name": "Hainaut",
+    "province_code": "HT",
+    "region": "Wallonie",
+    "coordinates": {
+      "lat": 50.6,
+      "lng": 3.6167
+    },
+    "population": 13812
+  },
+  {
+    "name": "Lobbes",
+    "slug": "lobbes-6540",
+    "zip": "6540",
+    "province_name": "Hainaut",
+    "province_code": "HT",
+    "region": "Wallonie",
+    "coordinates": {
+      "lat": 50.35,
+      "lng": 4.2667
+    },
+    "population": 5793
+  },
+  {
+    "name": "Manage",
+    "slug": "manage-7170",
+    "zip": "7170",
+    "province_name": "Hainaut",
+    "province_code": "HT",
+    "region": "Wallonie",
+    "coordinates": {
+      "lat": 50.5,
+      "lng": 4.2333
+    },
+    "population": 23242
+  },
+  {
+    "name": "Merbes-le-Château",
+    "slug": "merbes-le-chateau-6567",
+    "zip": "6567",
+    "province_name": "Hainaut",
+    "province_code": "HT",
+    "region": "Wallonie",
+    "coordinates": {
+      "lat": 50.3167,
+      "lng": 4.1667
+    },
+    "population": 4278
+  },
+  {
+    "name": "Momignies",
+    "slug": "momignies-6590",
+    "zip": "6590",
+    "province_name": "Hainaut",
+    "province_code": "HT",
+    "region": "Wallonie",
+    "coordinates": {
+      "lat": 50.0333,
+      "lng": 4.1667
+    },
+    "population": 5300
+  },
+  {
+    "name": "Mons",
+    "slug": "mons-7000",
+    "zip": "7000",
+    "province_name": "Hainaut",
+    "province_code": "HT",
+    "region": "Wallonie",
+    "coordinates": {
+      "lat": 50.4541,
+      "lng": 3.9567
+    },
+    "population": 95299
+  },
+  {
+    "name": "Mont-de-l'Enclus",
+    "slug": "mont-de-l-enclus-7750",
+    "zip": "7750",
+    "province_name": "Hainaut",
+    "province_code": "HT",
+    "region": "Wallonie",
+    "coordinates": {
+      "lat": 50.75,
+      "lng": 3.5
+    },
+    "population": 3700
+  },
+  {
+    "name": "Montigny-le-Tilleul",
+    "slug": "montigny-le-tilleul-6110",
+    "zip": "6110",
+    "province_name": "Hainaut",
+    "province_code": "HT",
+    "region": "Wallonie",
+    "coordinates": {
+      "lat": 50.35,
+      "lng": 4.3833
+    },
+    "population": 10489
+  },
+  {
+    "name": "Morlanwelz",
+    "slug": "morlanwelz-7140",
+    "zip": "7140",
+    "province_name": "Hainaut",
+    "province_code": "HT",
+    "region": "Wallonie",
+    "coordinates": {
+      "lat": 50.45,
+      "lng": 4.2333
+    },
+    "population": 19200
+  },
+  {
+    "name": "Mouscron",
+    "slug": "mouscron-7700",
+    "zip": "7700",
+    "province_name": "Hainaut",
+    "province_code": "HT",
+    "region": "Wallonie",
+    "coordinates": {
+      "lat": 50.7444,
+      "lng": 3.2064
+    },
+    "population": 58380
+  },
+  {
+    "name": "Pecq",
+    "slug": "pecq-7740",
+    "zip": "7740",
+    "province_name": "Hainaut",
+    "province_code": "HT",
+    "region": "Wallonie",
+    "coordinates": {
+      "lat": 50.6833,
+      "lng": 3.3333
+    },
+    "population": 5700
+  },
+  {
+    "name": "Pont-à-Celles",
+    "slug": "pont-a-celles-6230",
+    "zip": "6230",
+    "province_name": "Hainaut",
+    "province_code": "HT",
+    "region": "Wallonie",
+    "coordinates": {
+      "lat": 50.5,
+      "lng": 4.3667
+    },
+    "population": 17186
+  },
+  {
+    "name": "Péruwelz",
+    "slug": "peruwelz-7600",
+    "zip": "7600",
+    "province_name": "Hainaut",
+    "province_code": "HT",
+    "region": "Wallonie",
+    "coordinates": {
+      "lat": 50.5083,
+      "lng": 3.5917
+    },
+    "population": 17279
+  },
+  {
+    "name": "Quaregnon",
+    "slug": "quaregnon-7390",
+    "zip": "7390",
+    "province_name": "Hainaut",
+    "province_code": "HT",
+    "region": "Wallonie",
+    "coordinates": {
+      "lat": 50.4431,
+      "lng": 3.8667
+    },
+    "population": 19316
+  },
+  {
+    "name": "Quiévrain",
+    "slug": "quievrain-7380",
+    "zip": "7380",
+    "province_name": "Hainaut",
+    "province_code": "HT",
+    "region": "Wallonie",
+    "coordinates": {
+      "lat": 50.4,
+      "lng": 3.6833
+    },
+    "population": 6800
+  },
+  {
+    "name": "Quévy",
+    "slug": "quevy-7040",
+    "zip": "7040",
+    "province_name": "Hainaut",
+    "province_code": "HT",
+    "region": "Wallonie",
+    "coordinates": {
+      "lat": 50.3667,
+      "lng": 3.95
+    },
+    "population": 8000
+  },
+  {
+    "name": "Rumes",
+    "slug": "rumes-7610",
+    "zip": "7610",
+    "province_name": "Hainaut",
+    "province_code": "HT",
+    "region": "Wallonie",
+    "coordinates": {
+      "lat": 50.5333,
+      "lng": 3.3
+    },
+    "population": 5200
+  },
+  {
+    "name": "Saint-Ghislain",
+    "slug": "saint-ghislain-7330",
+    "zip": "7330",
+    "province_name": "Hainaut",
+    "province_code": "HT",
+    "region": "Wallonie",
+    "coordinates": {
+      "lat": 50.45,
+      "lng": 3.8167
+    },
+    "population": 23008
+  },
+  {
+    "name": "Seneffe",
+    "slug": "seneffe-7180",
+    "zip": "7180",
+    "province_name": "Hainaut",
+    "province_code": "HT",
+    "region": "Wallonie",
+    "coordinates": {
+      "lat": 50.5333,
+      "lng": 4.2667
+    },
+    "population": 11333
+  },
+  {
+    "name": "Silly",
+    "slug": "silly-7830",
+    "zip": "7830",
+    "province_name": "Hainaut",
+    "province_code": "HT",
+    "region": "Wallonie",
+    "coordinates": {
+      "lat": 50.6333,
+      "lng": 3.9167
+    },
+    "population": 8300
+  },
+  {
+    "name": "Sivry-Rance",
+    "slug": "sivry-rance-6470",
+    "zip": "6470",
+    "province_name": "Hainaut",
+    "province_code": "HT",
+    "region": "Wallonie",
+    "coordinates": {
+      "lat": 50.1333,
+      "lng": 4.2167
+    },
+    "population": 5100
+  },
+  {
+    "name": "Soignies",
+    "slug": "soignies-7060",
+    "zip": "7060",
+    "province_name": "Hainaut",
+    "province_code": "HT",
+    "region": "Wallonie",
+    "coordinates": {
+      "lat": 50.5764,
+      "lng": 4.0728
+    },
+    "population": 27967
+  },
+  {
+    "name": "Thuin",
+    "slug": "thuin-6530",
+    "zip": "6530",
+    "province_name": "Hainaut",
+    "province_code": "HT",
+    "region": "Wallonie",
+    "coordinates": {
+      "lat": 50.3392,
+      "lng": 4.2861
+    },
+    "population": 14977
+  },
+  {
+    "name": "Tournai",
+    "slug": "tournai-7500",
+    "zip": "7500",
+    "province_name": "Hainaut",
+    "province_code": "HT",
+    "region": "Wallonie",
+    "coordinates": {
+      "lat": 50.6058,
+      "lng": 3.3883
+    },
+    "population": 69554
+  },
+  {
+    "name": "Amay",
+    "slug": "amay-4540",
+    "zip": "4540",
+    "province_name": "Liège",
+    "province_code": "LG",
+    "region": "Wallonie",
+    "coordinates": {
+      "lat": 50.55,
+      "lng": 5.3167
+    },
+    "population": 14379
+  },
+  {
+    "name": "Ans",
+    "slug": "ans-4430",
+    "zip": "4430",
+    "province_name": "Liège",
+    "province_code": "LG",
+    "region": "Wallonie",
+    "coordinates": {
+      "lat": 50.6667,
+      "lng": 5.5167
+    },
+    "population": 28550
+  },
+  {
+    "name": "Anthisnes",
+    "slug": "anthisnes-4160",
+    "zip": "4160",
+    "province_name": "Liège",
+    "province_code": "LG",
+    "region": "Wallonie",
+    "coordinates": {
+      "lat": 50.4833,
+      "lng": 5.5333
+    },
+    "population": 4200
+  },
+  {
+    "name": "Aubel",
+    "slug": "aubel-4880",
+    "zip": "4880",
+    "province_name": "Liège",
+    "province_code": "LG",
+    "region": "Wallonie",
+    "coordinates": {
+      "lat": 50.7,
+      "lng": 5.85
+    },
+    "population": 4400
+  },
+  {
+    "name": "Awans",
+    "slug": "awans-4340",
+    "zip": "4340",
+    "province_name": "Liège",
+    "province_code": "LG",
+    "region": "Wallonie",
+    "coordinates": {
+      "lat": 50.6667,
+      "lng": 5.4667
+    },
+    "population": 9200
+  },
+  {
+    "name": "Aywaille",
+    "slug": "aywaille-4920",
+    "zip": "4920",
+    "province_name": "Liège",
+    "province_code": "LG",
+    "region": "Wallonie",
+    "coordinates": {
+      "lat": 50.475,
+      "lng": 5.675
+    },
+    "population": 12443
+  },
+  {
+    "name": "Baelen",
+    "slug": "baelen-4837",
+    "zip": "4837",
+    "province_name": "Liège",
+    "province_code": "LG",
+    "region": "Wallonie",
+    "coordinates": {
+      "lat": 50.6333,
+      "lng": 5.9667
+    },
+    "population": 4400
+  },
+  {
+    "name": "Bassenge",
+    "slug": "bassenge-4690",
+    "zip": "4690",
+    "province_name": "Liège",
+    "province_code": "LG",
+    "region": "Wallonie",
+    "coordinates": {
+      "lat": 50.7667,
+      "lng": 5.6167
+    },
+    "population": 8900
+  },
+  {
+    "name": "Berloz",
+    "slug": "berloz-4257",
+    "zip": "4257",
+    "province_name": "Liège",
+    "province_code": "LG",
+    "region": "Wallonie",
+    "coordinates": {
+      "lat": 50.7,
+      "lng": 5.2167
+    },
+    "population": 3200
+  },
+  {
+    "name": "Beyne-Heusay",
+    "slug": "beyne-heusay-4610",
+    "zip": "4610",
+    "province_name": "Liège",
+    "province_code": "LG",
+    "region": "Wallonie",
+    "coordinates": {
+      "lat": 50.6167,
+      "lng": 5.6667
+    },
+    "population": 12100
+  },
+  {
+    "name": "Blegny",
+    "slug": "blegny-4670",
+    "zip": "4670",
+    "province_name": "Liège",
+    "province_code": "LG",
+    "region": "Wallonie",
+    "coordinates": {
+      "lat": 50.6833,
+      "lng": 5.7333
+    },
+    "population": 13200
+  },
+  {
+    "name": "Braives",
+    "slug": "braives-4260",
+    "zip": "4260",
+    "province_name": "Liège",
+    "province_code": "LG",
+    "region": "Wallonie",
+    "coordinates": {
+      "lat": 50.6333,
+      "lng": 5.1667
+    },
+    "population": 6100
+  },
+  {
+    "name": "Bullingen",
+    "slug": "bullingen-4760",
+    "zip": "4760",
+    "province_name": "Liège",
+    "province_code": "LG",
+    "region": "Wallonie",
+    "coordinates": {
+      "lat": 50.4167,
+      "lng": 6.25
+    },
+    "population": 5600
+  },
+  {
+    "name": "Burdinne",
+    "slug": "burdinne-4210",
+    "zip": "4210",
+    "province_name": "Liège",
+    "province_code": "LG",
+    "region": "Wallonie",
+    "coordinates": {
+      "lat": 50.5833,
+      "lng": 5.0833
+    },
+    "population": 3100
+  },
+  {
+    "name": "Burg-Reuland",
+    "slug": "burg-reuland-4790",
+    "zip": "4790",
+    "province_name": "Liège",
+    "province_code": "LG",
+    "region": "Wallonie",
+    "coordinates": {
+      "lat": 50.2333,
+      "lng": 6.1333
+    },
+    "population": 4000
+  },
+  {
+    "name": "Bütgenbach",
+    "slug": "butgenbach-4750",
+    "zip": "4750",
+    "province_name": "Liège",
+    "province_code": "LG",
+    "region": "Wallonie",
+    "coordinates": {
+      "lat": 50.4167,
+      "lng": 6.2
+    },
+    "population": 5800
+  },
+  {
+    "name": "Chaudfontaine",
+    "slug": "chaudfontaine-4050",
+    "zip": "4050",
+    "province_name": "Liège",
+    "province_code": "LG",
+    "region": "Wallonie",
+    "coordinates": {
+      "lat": 50.5833,
+      "lng": 5.65
+    },
+    "population": 21376
+  },
+  {
+    "name": "Clavier",
+    "slug": "clavier-4560",
+    "zip": "4560",
+    "province_name": "Liège",
+    "province_code": "LG",
+    "region": "Wallonie",
+    "coordinates": {
+      "lat": 50.4,
+      "lng": 5.3667
+    },
+    "population": 4600
+  },
+  {
+    "name": "Comblain-au-Pont",
+    "slug": "comblain-au-pont-4170",
+    "zip": "4170",
+    "province_name": "Liège",
+    "province_code": "LG",
+    "region": "Wallonie",
+    "coordinates": {
+      "lat": 50.4667,
+      "lng": 5.5833
+    },
+    "population": 5400
+  },
+  {
+    "name": "Crisnée",
+    "slug": "crisnee-4367",
+    "zip": "4367",
+    "province_name": "Liège",
+    "province_code": "LG",
+    "region": "Wallonie",
+    "coordinates": {
+      "lat": 50.7,
+      "lng": 5.5
+    },
+    "population": 3100
+  },
+  {
+    "name": "Dalhem",
+    "slug": "dalhem-4607",
+    "zip": "4607",
+    "province_name": "Liège",
+    "province_code": "LG",
+    "region": "Wallonie",
+    "coordinates": {
+      "lat": 50.7,
+      "lng": 5.7333
+    },
+    "population": 7200
+  },
+  {
+    "name": "Dison",
+    "slug": "dison-4820",
+    "zip": "4820",
+    "province_name": "Liège",
+    "province_code": "LG",
+    "region": "Wallonie",
+    "coordinates": {
+      "lat": 50.6117,
+      "lng": 5.8544
+    },
+    "population": 15590
+  },
+  {
+    "name": "Donceel",
+    "slug": "donceel-4357",
+    "zip": "4357",
+    "province_name": "Liège",
+    "province_code": "LG",
+    "region": "Wallonie",
+    "coordinates": {
+      "lat": 50.6667,
+      "lng": 5.35
+    },
+    "population": 3000
+  },
+  {
+    "name": "Engis",
+    "slug": "engis-4480",
+    "zip": "4480",
+    "province_name": "Liège",
+    "province_code": "LG",
+    "region": "Wallonie",
+    "coordinates": {
+      "lat": 50.5833,
+      "lng": 5.3833
+    },
+    "population": 6100
+  },
+  {
+    "name": "Esneux",
+    "slug": "esneux-4130",
+    "zip": "4130",
+    "province_name": "Liège",
+    "province_code": "LG",
+    "region": "Wallonie",
+    "coordinates": {
+      "lat": 50.5333,
+      "lng": 5.5667
+    },
+    "population": 13100
+  },
+  {
+    "name": "Eupen",
+    "slug": "eupen-4700",
+    "zip": "4700",
+    "province_name": "Liège",
+    "province_code": "LG",
+    "region": "Wallonie",
+    "coordinates": {
+      "lat": 50.6275,
+      "lng": 6.0361
+    },
+    "population": 19892
+  },
+  {
+    "name": "Faimes",
+    "slug": "faimes-4317",
+    "zip": "4317",
+    "province_name": "Liège",
+    "province_code": "LG",
+    "region": "Wallonie",
+    "coordinates": {
+      "lat": 50.6833,
+      "lng": 5.2667
+    },
+    "population": 3800
+  },
+  {
+    "name": "Ferrières",
+    "slug": "ferrieres-4190",
+    "zip": "4190",
+    "province_name": "Liège",
+    "province_code": "LG",
+    "region": "Wallonie",
+    "coordinates": {
+      "lat": 50.4,
+      "lng": 5.6167
+    },
+    "population": 4800
+  },
+  {
+    "name": "Fexhe-le-Haut-Clocher",
+    "slug": "fexhe-le-haut-clocher-4347",
+    "zip": "4347",
+    "province_name": "Liège",
+    "province_code": "LG",
+    "region": "Wallonie",
+    "coordinates": {
+      "lat": 50.6833,
+      "lng": 5.3833
+    },
+    "population": 3400
+  },
+  {
+    "name": "Flémalle",
+    "slug": "flemalle-4400",
+    "zip": "4400",
+    "province_name": "Liège",
+    "province_code": "LG",
+    "region": "Wallonie",
+    "coordinates": {
+      "lat": 50.6,
+      "lng": 5.4667
+    },
+    "population": 26500
+  },
+  {
+    "name": "Fléron",
+    "slug": "fleron-4620",
+    "zip": "4620",
+    "province_name": "Liège",
+    "province_code": "LG",
+    "region": "Wallonie",
+    "coordinates": {
+      "lat": 50.6167,
+      "lng": 5.6833
+    },
+    "population": 16834
+  },
+  {
+    "name": "Geer",
+    "slug": "geer-4250",
+    "zip": "4250",
+    "province_name": "Liège",
+    "province_code": "LG",
+    "region": "Wallonie",
+    "coordinates": {
+      "lat": 50.6667,
+      "lng": 5.1833
+    },
+    "population": 3400
+  },
+  {
+    "name": "Grâce-Hollogne",
+    "slug": "grace-hollogne-4460",
+    "zip": "4460",
+    "province_name": "Liège",
+    "province_code": "LG",
+    "region": "Wallonie",
+    "coordinates": {
+      "lat": 50.6333,
+      "lng": 5.5
+    },
+    "population": 22500
+  },
+  {
+    "name": "Hamoir",
+    "slug": "hamoir-4180",
+    "zip": "4180",
+    "province_name": "Liège",
+    "province_code": "LG",
+    "region": "Wallonie",
+    "coordinates": {
+      "lat": 50.4333,
+      "lng": 5.5333
+    },
+    "population": 3800
+  },
+  {
+    "name": "Hannut",
+    "slug": "hannut-4280",
+    "zip": "4280",
+    "province_name": "Liège",
+    "province_code": "LG",
+    "region": "Wallonie",
+    "coordinates": {
+      "lat": 50.6717,
+      "lng": 5.0783
+    },
+    "population": 16137
+  },
+  {
+    "name": "Herstal",
+    "slug": "herstal-4040",
+    "zip": "4040",
+    "province_name": "Liège",
+    "province_code": "LG",
+    "region": "Wallonie",
+    "coordinates": {
+      "lat": 50.6667,
+      "lng": 5.6333
+    },
+    "population": 39689
+  },
+  {
+    "name": "Huy",
+    "slug": "huy-4500",
+    "zip": "4500",
+    "province_name": "Liège",
+    "province_code": "LG",
+    "region": "Wallonie",
+    "coordinates": {
+      "lat": 50.5167,
+      "lng": 5.2333
+    },
+    "population": 21573
+  },
+  {
+    "name": "Héron",
+    "slug": "heron-4217",
+    "zip": "4217",
+    "province_name": "Liège",
+    "province_code": "LG",
+    "region": "Wallonie",
+    "coordinates": {
+      "lat": 50.55,
+      "lng": 5.1
+    },
+    "population": 5200
+  },
+  {
+    "name": "Jalhay",
+    "slug": "jalhay-4845",
+    "zip": "4845",
+    "province_name": "Liège",
+    "province_code": "LG",
+    "region": "Wallonie",
+    "coordinates": {
+      "lat": 50.55,
+      "lng": 5.9667
+    },
+    "population": 8600
+  },
+  {
+    "name": "Juprelle",
+    "slug": "juprelle-4450",
+    "zip": "4450",
+    "province_name": "Liège",
+    "province_code": "LG",
+    "region": "Wallonie",
+    "coordinates": {
+      "lat": 50.7167,
+      "lng": 5.5333
+    },
+    "population": 9500
+  },
+  {
+    "name": "Kelmis",
+    "slug": "kelmis-4720",
+    "zip": "4720",
+    "province_name": "Liège",
+    "province_code": "LG",
+    "region": "Wallonie",
+    "coordinates": {
+      "lat": 50.7167,
+      "lng": 6.0167
+    },
+    "population": 11200
+  },
+  {
+    "name": "Lierneux",
+    "slug": "lierneux-4990",
+    "zip": "4990",
+    "province_name": "Liège",
+    "province_code": "LG",
+    "region": "Wallonie",
+    "coordinates": {
+      "lat": 50.2833,
+      "lng": 5.7833
+    },
+    "population": 3600
+  },
+  {
+    "name": "Limbourg",
+    "slug": "limbourg-4830",
+    "zip": "4830",
+    "province_name": "Liège",
+    "province_code": "LG",
+    "region": "Wallonie",
+    "coordinates": {
+      "lat": 50.6167,
+      "lng": 5.9333
+    },
+    "population": 5800
+  },
+  {
+    "name": "Liège",
+    "slug": "liege-4000",
+    "zip": "4000",
+    "province_name": "Liège",
+    "province_code": "LG",
+    "region": "Wallonie",
+    "coordinates": {
+      "lat": 50.6326,
+      "lng": 5.5797
+    },
+    "population": 197013
+  },
+  {
+    "name": "Lontzen",
+    "slug": "lontzen-4710",
+    "zip": "4710",
+    "province_name": "Liège",
+    "province_code": "LG",
+    "region": "Wallonie",
+    "coordinates": {
+      "lat": 50.6833,
+      "lng": 6.0
+    },
+    "population": 5700
+  },
+  {
+    "name": "Malmedy",
+    "slug": "malmedy-4960",
+    "zip": "4960",
+    "province_name": "Liège",
+    "province_code": "LG",
+    "region": "Wallonie",
+    "coordinates": {
+      "lat": 50.4256,
+      "lng": 6.0278
+    },
+    "population": 12644
+  },
+  {
+    "name": "Marchin",
+    "slug": "marchin-4570",
+    "zip": "4570",
+    "province_name": "Liège",
+    "province_code": "LG",
+    "region": "Wallonie",
+    "coordinates": {
+      "lat": 50.4667,
+      "lng": 5.25
+    },
+    "population": 5500
+  },
+  {
+    "name": "Modave",
+    "slug": "modave-4577",
+    "zip": "4577",
+    "province_name": "Liège",
+    "province_code": "LG",
+    "region": "Wallonie",
+    "coordinates": {
+      "lat": 50.45,
+      "lng": 5.3
+    },
+    "population": 4100
+  },
+  {
+    "name": "Nandrin",
+    "slug": "nandrin-4550",
+    "zip": "4550",
+    "province_name": "Liège",
+    "province_code": "LG",
+    "region": "Wallonie",
+    "coordinates": {
+      "lat": 50.5167,
+      "lng": 5.4167
+    },
+    "population": 5800
+  },
+  {
+    "name": "Neupré",
+    "slug": "neupre-4120",
+    "zip": "4120",
+    "province_name": "Liège",
+    "province_code": "LG",
+    "region": "Wallonie",
+    "coordinates": {
+      "lat": 50.55,
+      "lng": 5.5
+    },
+    "population": 10100
+  },
+  {
+    "name": "Olne",
+    "slug": "olne-4877",
+    "zip": "4877",
+    "province_name": "Liège",
+    "province_code": "LG",
+    "region": "Wallonie",
+    "coordinates": {
+      "lat": 50.5833,
+      "lng": 5.75
+    },
+    "population": 4000
+  },
+  {
+    "name": "Ouffet",
+    "slug": "ouffet-4590",
+    "zip": "4590",
+    "province_name": "Liège",
+    "province_code": "LG",
+    "region": "Wallonie",
+    "coordinates": {
+      "lat": 50.4333,
+      "lng": 5.45
+    },
+    "population": 2800
+  },
+  {
+    "name": "Oupeye",
+    "slug": "oupeye-4680",
+    "zip": "4680",
+    "province_name": "Liège",
+    "province_code": "LG",
+    "region": "Wallonie",
+    "coordinates": {
+      "lat": 50.7083,
+      "lng": 5.65
+    },
+    "population": 24655
+  },
+  {
+    "name": "Pepinster",
+    "slug": "pepinster-4860",
+    "zip": "4860",
+    "province_name": "Liège",
+    "province_code": "LG",
+    "region": "Wallonie",
+    "coordinates": {
+      "lat": 50.5708,
+      "lng": 5.8003
+    },
+    "population": 9961
+  },
+  {
+    "name": "Plombières",
+    "slug": "plombieres-4850",
+    "zip": "4850",
+    "province_name": "Liège",
+    "province_code": "LG",
+    "region": "Wallonie",
+    "coordinates": {
+      "lat": 50.7333,
+      "lng": 5.9667
+    },
+    "population": 10200
+  },
+  {
+    "name": "Raeren",
+    "slug": "raeren-4730",
+    "zip": "4730",
+    "province_name": "Liège",
+    "province_code": "LG",
+    "region": "Wallonie",
+    "coordinates": {
+      "lat": 50.6667,
+      "lng": 6.1
+    },
+    "population": 11000
+  },
+  {
+    "name": "Remicourt",
+    "slug": "remicourt-4350",
+    "zip": "4350",
+    "province_name": "Liège",
+    "province_code": "LG",
+    "region": "Wallonie",
+    "coordinates": {
+      "lat": 50.6667,
+      "lng": 5.3167
+    },
+    "population": 5800
+  },
+  {
+    "name": "Saint-Georges-sur-Meuse",
+    "slug": "saint-georges-sur-meuse-4470",
+    "zip": "4470",
+    "province_name": "Liège",
+    "province_code": "LG",
+    "region": "Wallonie",
+    "coordinates": {
+      "lat": 50.5833,
+      "lng": 5.4
+    },
+    "population": 6900
+  },
+  {
+    "name": "Saint-Nicolas",
+    "slug": "saint-nicolas-4420",
+    "zip": "4420",
+    "province_name": "Liège",
+    "province_code": "LG",
+    "region": "Wallonie",
+    "coordinates": {
+      "lat": 50.6333,
+      "lng": 5.5333
+    },
+    "population": 24246
+  },
+  {
+    "name": "Sankt Vith",
+    "slug": "sankt-vith-4780",
+    "zip": "4780",
+    "province_name": "Liège",
+    "province_code": "LG",
+    "region": "Wallonie",
+    "coordinates": {
+      "lat": 50.2833,
+      "lng": 6.1333
+    },
+    "population": 9800
+  },
+  {
+    "name": "Seraing",
+    "slug": "seraing-4100",
+    "zip": "4100",
+    "province_name": "Liège",
+    "province_code": "LG",
+    "region": "Wallonie",
+    "coordinates": {
+      "lat": 50.5833,
+      "lng": 5.5
+    },
+    "population": 64056
+  },
+  {
+    "name": "Soumagne",
+    "slug": "soumagne-4630",
+    "zip": "4630",
+    "province_name": "Liège",
+    "province_code": "LG",
+    "region": "Wallonie",
+    "coordinates": {
+      "lat": 50.6167,
+      "lng": 5.75
+    },
+    "population": 16500
+  },
+  {
+    "name": "Spa",
+    "slug": "spa-4900",
+    "zip": "4900",
+    "province_name": "Liège",
+    "province_code": "LG",
+    "region": "Wallonie",
+    "coordinates": {
+      "lat": 50.4833,
+      "lng": 5.8667
+    },
+    "population": 10543
+  },
+  {
+    "name": "Sprimont",
+    "slug": "sprimont-4140",
+    "zip": "4140",
+    "province_name": "Liège",
+    "province_code": "LG",
+    "region": "Wallonie",
+    "coordinates": {
+      "lat": 50.5,
+      "lng": 5.6667
+    },
+    "population": 14777
+  },
+  {
+    "name": "Stavelot",
+    "slug": "stavelot-4970",
+    "zip": "4970",
+    "province_name": "Liège",
+    "province_code": "LG",
+    "region": "Wallonie",
+    "coordinates": {
+      "lat": 50.395,
+      "lng": 5.9317
+    },
+    "population": 7163
+  },
+  {
+    "name": "Stoumont",
+    "slug": "stoumont-4987",
+    "zip": "4987",
+    "province_name": "Liège",
+    "province_code": "LG",
+    "region": "Wallonie",
+    "coordinates": {
+      "lat": 50.3833,
+      "lng": 5.8167
+    },
+    "population": 3200
+  },
+  {
+    "name": "Theux",
+    "slug": "theux-4910",
+    "zip": "4910",
+    "province_name": "Liège",
+    "province_code": "LG",
+    "region": "Wallonie",
+    "coordinates": {
+      "lat": 50.5333,
+      "lng": 5.8167
+    },
+    "population": 12200
+  },
+  {
+    "name": "Thimister-Clermont",
+    "slug": "thimister-clermont-4890",
+    "zip": "4890",
+    "province_name": "Liège",
+    "province_code": "LG",
+    "region": "Wallonie",
+    "coordinates": {
+      "lat": 50.65,
+      "lng": 5.85
+    },
+    "population": 5600
+  },
+  {
+    "name": "Tinlot",
+    "slug": "tinlot-4557",
+    "zip": "4557",
+    "province_name": "Liège",
+    "province_code": "LG",
+    "region": "Wallonie",
+    "coordinates": {
+      "lat": 50.4833,
+      "lng": 5.3667
+    },
+    "population": 2700
+  },
+  {
+    "name": "Trois-Ponts",
+    "slug": "trois-ponts-4980",
+    "zip": "4980",
+    "province_name": "Liège",
+    "province_code": "LG",
+    "region": "Wallonie",
+    "coordinates": {
+      "lat": 50.3667,
+      "lng": 5.8667
+    },
+    "population": 2600
+  },
+  {
+    "name": "Trooz",
+    "slug": "trooz-4870",
+    "zip": "4870",
+    "province_name": "Liège",
+    "province_code": "LG",
+    "region": "Wallonie",
+    "coordinates": {
+      "lat": 50.5667,
+      "lng": 5.7
+    },
+    "population": 8400
+  },
+  {
+    "name": "Verlaine",
+    "slug": "verlaine-4537",
+    "zip": "4537",
+    "province_name": "Liège",
+    "province_code": "LG",
+    "region": "Wallonie",
+    "coordinates": {
+      "lat": 50.5833,
+      "lng": 5.3167
+    },
+    "population": 4200
+  },
+  {
+    "name": "Verviers",
+    "slug": "verviers-4800",
+    "zip": "4800",
+    "province_name": "Liège",
+    "province_code": "LG",
+    "region": "Wallonie",
+    "coordinates": {
+      "lat": 50.588,
+      "lng": 5.8624
+    },
+    "population": 55602
+  },
+  {
+    "name": "Villers-le-Bouillet",
+    "slug": "villers-le-bouillet-4530",
+    "zip": "4530",
+    "province_name": "Liège",
+    "province_code": "LG",
+    "region": "Wallonie",
+    "coordinates": {
+      "lat": 50.5667,
+      "lng": 5.2833
+    },
+    "population": 6500
+  },
+  {
+    "name": "Visé",
+    "slug": "vise-4600",
+    "zip": "4600",
+    "province_name": "Liège",
+    "province_code": "LG",
+    "region": "Wallonie",
+    "coordinates": {
+      "lat": 50.7333,
+      "lng": 5.7
+    },
+    "population": 18254
+  },
+  {
+    "name": "Wanze",
+    "slug": "wanze-4520",
+    "zip": "4520",
+    "province_name": "Liège",
+    "province_code": "LG",
+    "region": "Wallonie",
+    "coordinates": {
+      "lat": 50.5333,
+      "lng": 5.2
+    },
+    "population": 13600
+  },
+  {
+    "name": "Waremme",
+    "slug": "waremme-4300",
+    "zip": "4300",
+    "province_name": "Liège",
+    "province_code": "LG",
+    "region": "Wallonie",
+    "coordinates": {
+      "lat": 50.6967,
+      "lng": 5.255
+    },
+    "population": 15793
+  },
+  {
+    "name": "Wasseiges",
+    "slug": "wasseiges-4219",
+    "zip": "4219",
+    "province_name": "Liège",
+    "province_code": "LG",
+    "region": "Wallonie",
+    "coordinates": {
+      "lat": 50.6167,
+      "lng": 5.0
+    },
+    "population": 2800
+  },
+  {
+    "name": "Welkenraedt",
+    "slug": "welkenraedt-4840",
+    "zip": "4840",
+    "province_name": "Liège",
+    "province_code": "LG",
+    "region": "Wallonie",
+    "coordinates": {
+      "lat": 50.6667,
+      "lng": 5.9667
+    },
+    "population": 10000
+  },
+  {
+    "name": "Arlon",
+    "slug": "arlon-6700",
+    "zip": "6700",
+    "province_name": "Luxembourg",
+    "province_code": "LX",
+    "region": "Wallonie",
+    "coordinates": {
+      "lat": 49.6833,
+      "lng": 5.8167
+    },
+    "population": 30753
+  },
+  {
+    "name": "Attert",
+    "slug": "attert-6717",
+    "zip": "6717",
+    "province_name": "Luxembourg",
+    "province_code": "LX",
+    "region": "Wallonie",
+    "coordinates": {
+      "lat": 49.75,
+      "lng": 5.7833
+    },
+    "population": 5500
+  },
+  {
+    "name": "Aubange",
+    "slug": "aubange-6790",
+    "zip": "6790",
+    "province_name": "Luxembourg",
+    "province_code": "LX",
+    "region": "Wallonie",
+    "coordinates": {
+      "lat": 49.5667,
+      "lng": 5.8
+    },
+    "population": 17248
+  },
+  {
+    "name": "Bastogne",
+    "slug": "bastogne-6600",
+    "zip": "6600",
+    "province_name": "Luxembourg",
+    "province_code": "LX",
+    "region": "Wallonie",
+    "coordinates": {
+      "lat": 50.0,
+      "lng": 5.7167
+    },
+    "population": 16250
+  },
+  {
+    "name": "Bertogne",
+    "slug": "bertogne-6687",
+    "zip": "6687",
+    "province_name": "Luxembourg",
+    "province_code": "LX",
+    "region": "Wallonie",
+    "coordinates": {
+      "lat": 50.0833,
+      "lng": 5.6667
+    },
+    "population": 3500
+  },
+  {
+    "name": "Bertrix",
+    "slug": "bertrix-6880",
+    "zip": "6880",
+    "province_name": "Luxembourg",
+    "province_code": "LX",
+    "region": "Wallonie",
+    "coordinates": {
+      "lat": 49.85,
+      "lng": 5.2667
+    },
+    "population": 8803
+  },
+  {
+    "name": "Bouillon",
+    "slug": "bouillon-6830",
+    "zip": "6830",
+    "province_name": "Luxembourg",
+    "province_code": "LX",
+    "region": "Wallonie",
+    "coordinates": {
+      "lat": 49.7933,
+      "lng": 5.0672
+    },
+    "population": 5487
+  },
+  {
+    "name": "Chiny",
+    "slug": "chiny-6810",
+    "zip": "6810",
+    "province_name": "Luxembourg",
+    "province_code": "LX",
+    "region": "Wallonie",
+    "coordinates": {
+      "lat": 49.7333,
+      "lng": 5.3333
+    },
+    "population": 5200
+  },
+  {
+    "name": "Daverdisse",
+    "slug": "daverdisse-6929",
+    "zip": "6929",
+    "province_name": "Luxembourg",
+    "province_code": "LX",
+    "region": "Wallonie",
+    "coordinates": {
+      "lat": 50.0167,
+      "lng": 5.1167
+    },
+    "population": 1500
+  },
+  {
+    "name": "Durbuy",
+    "slug": "durbuy-6940",
+    "zip": "6940",
+    "province_name": "Luxembourg",
+    "province_code": "LX",
+    "region": "Wallonie",
+    "coordinates": {
+      "lat": 50.3531,
+      "lng": 5.4564
+    },
+    "population": 11466
+  },
+  {
+    "name": "Erezée",
+    "slug": "erezee-6997",
+    "zip": "6997",
+    "province_name": "Luxembourg",
+    "province_code": "LX",
+    "region": "Wallonie",
+    "coordinates": {
+      "lat": 50.3,
+      "lng": 5.55
+    },
+    "population": 3200
+  },
+  {
+    "name": "Fauvillers",
+    "slug": "fauvillers-6637",
+    "zip": "6637",
+    "province_name": "Luxembourg",
+    "province_code": "LX",
+    "region": "Wallonie",
+    "coordinates": {
+      "lat": 49.8833,
+      "lng": 5.6
+    },
+    "population": 2300
+  },
+  {
+    "name": "Florenville",
+    "slug": "florenville-6820",
+    "zip": "6820",
+    "province_name": "Luxembourg",
+    "province_code": "LX",
+    "region": "Wallonie",
+    "coordinates": {
+      "lat": 49.6992,
+      "lng": 5.3058
+    },
+    "population": 5627
+  },
+  {
+    "name": "Gouvy",
+    "slug": "gouvy-6670",
+    "zip": "6670",
+    "province_name": "Luxembourg",
+    "province_code": "LX",
+    "region": "Wallonie",
+    "coordinates": {
+      "lat": 50.1833,
+      "lng": 5.95
+    },
+    "population": 5300
+  },
+  {
+    "name": "Habay",
+    "slug": "habay-6720",
+    "zip": "6720",
+    "province_name": "Luxembourg",
+    "province_code": "LX",
+    "region": "Wallonie",
+    "coordinates": {
+      "lat": 49.7167,
+      "lng": 5.6333
+    },
+    "population": 8574
+  },
+  {
+    "name": "Herbeumont",
+    "slug": "herbeumont-6887",
+    "zip": "6887",
+    "province_name": "Luxembourg",
+    "province_code": "LX",
+    "region": "Wallonie",
+    "coordinates": {
+      "lat": 49.7833,
+      "lng": 5.2333
+    },
+    "population": 1700
+  },
+  {
+    "name": "Hotton",
+    "slug": "hotton-6990",
+    "zip": "6990",
+    "province_name": "Luxembourg",
+    "province_code": "LX",
+    "region": "Wallonie",
+    "coordinates": {
+      "lat": 50.2667,
+      "lng": 5.45
+    },
+    "population": 5730
+  },
+  {
+    "name": "Houffalize",
+    "slug": "houffalize-6660",
+    "zip": "6660",
+    "province_name": "Luxembourg",
+    "province_code": "LX",
+    "region": "Wallonie",
+    "coordinates": {
+      "lat": 50.1333,
+      "lng": 5.7833
+    },
+    "population": 5200
+  },
+  {
+    "name": "La Roche-en-Ardenne",
+    "slug": "la-roche-en-ardenne-6980",
+    "zip": "6980",
+    "province_name": "Luxembourg",
+    "province_code": "LX",
+    "region": "Wallonie",
+    "coordinates": {
+      "lat": 50.1833,
+      "lng": 5.5833
+    },
+    "population": 4320
+  },
+  {
+    "name": "Libramont-Chevigny",
+    "slug": "libramont-chevigny-6800",
+    "zip": "6800",
+    "province_name": "Luxembourg",
+    "province_code": "LX",
+    "region": "Wallonie",
+    "coordinates": {
+      "lat": 49.9167,
+      "lng": 5.3833
+    },
+    "population": 11346
+  },
+  {
+    "name": "Léglise",
+    "slug": "leglise-6860",
+    "zip": "6860",
+    "province_name": "Luxembourg",
+    "province_code": "LX",
+    "region": "Wallonie",
+    "coordinates": {
+      "lat": 49.8,
+      "lng": 5.55
+    },
+    "population": 5300
+  },
+  {
+    "name": "Manhay",
+    "slug": "manhay-6960",
+    "zip": "6960",
+    "province_name": "Luxembourg",
+    "province_code": "LX",
+    "region": "Wallonie",
+    "coordinates": {
+      "lat": 50.2833,
+      "lng": 5.6833
+    },
+    "population": 3600
+  },
+  {
+    "name": "Marche-en-Famenne",
+    "slug": "marche-en-famenne-6900",
+    "zip": "6900",
+    "province_name": "Luxembourg",
+    "province_code": "LX",
+    "region": "Wallonie",
+    "coordinates": {
+      "lat": 50.2272,
+      "lng": 5.3444
+    },
+    "population": 17735
+  },
+  {
+    "name": "Meix-devant-Virton",
+    "slug": "meix-devant-virton-6769",
+    "zip": "6769",
+    "province_name": "Luxembourg",
+    "province_code": "LX",
+    "region": "Wallonie",
+    "coordinates": {
+      "lat": 49.6167,
+      "lng": 5.5
+    },
+    "population": 2900
+  },
+  {
+    "name": "Messancy",
+    "slug": "messancy-6780",
+    "zip": "6780",
+    "province_name": "Luxembourg",
+    "province_code": "LX",
+    "region": "Wallonie",
+    "coordinates": {
+      "lat": 49.5833,
+      "lng": 5.8167
+    },
+    "population": 8500
+  },
+  {
+    "name": "Musson",
+    "slug": "musson-6750",
+    "zip": "6750",
+    "province_name": "Luxembourg",
+    "province_code": "LX",
+    "region": "Wallonie",
+    "coordinates": {
+      "lat": 49.5667,
+      "lng": 5.7
+    },
+    "population": 4500
+  },
+  {
+    "name": "Nassogne",
+    "slug": "nassogne-6950",
+    "zip": "6950",
+    "province_name": "Luxembourg",
+    "province_code": "LX",
+    "region": "Wallonie",
+    "coordinates": {
+      "lat": 50.1333,
+      "lng": 5.35
+    },
+    "population": 5500
+  },
+  {
+    "name": "Neufchâteau",
+    "slug": "neufchateau-6840",
+    "zip": "6840",
+    "province_name": "Luxembourg",
+    "province_code": "LX",
+    "region": "Wallonie",
+    "coordinates": {
+      "lat": 49.8417,
+      "lng": 5.4333
+    },
+    "population": 8056
+  },
+  {
+    "name": "Paliseul",
+    "slug": "paliseul-6850",
+    "zip": "6850",
+    "province_name": "Luxembourg",
+    "province_code": "LX",
+    "region": "Wallonie",
+    "coordinates": {
+      "lat": 49.9,
+      "lng": 5.1333
+    },
+    "population": 5400
+  },
+  {
+    "name": "Rendeux",
+    "slug": "rendeux-6987",
+    "zip": "6987",
+    "province_name": "Luxembourg",
+    "province_code": "LX",
+    "region": "Wallonie",
+    "coordinates": {
+      "lat": 50.2333,
+      "lng": 5.5
+    },
+    "population": 2600
+  },
+  {
+    "name": "Rouvroy",
+    "slug": "rouvroy-6767",
+    "zip": "6767",
+    "province_name": "Luxembourg",
+    "province_code": "LX",
+    "region": "Wallonie",
+    "coordinates": {
+      "lat": 49.55,
+      "lng": 5.4833
+    },
+    "population": 2200
+  },
+  {
+    "name": "Saint-Hubert",
+    "slug": "saint-hubert-6870",
+    "zip": "6870",
+    "province_name": "Luxembourg",
+    "province_code": "LX",
+    "region": "Wallonie",
+    "coordinates": {
+      "lat": 50.0333,
+      "lng": 5.3833
+    },
+    "population": 5800
+  },
+  {
+    "name": "Saint-Léger",
+    "slug": "saint-leger-6747",
+    "zip": "6747",
+    "province_name": "Luxembourg",
+    "province_code": "LX",
+    "region": "Wallonie",
+    "coordinates": {
+      "lat": 49.6167,
+      "lng": 5.65
+    },
+    "population": 3700
+  },
+  {
+    "name": "Sainte-Ode",
+    "slug": "sainte-ode-6680",
+    "zip": "6680",
+    "province_name": "Luxembourg",
+    "province_code": "LX",
+    "region": "Wallonie",
+    "coordinates": {
+      "lat": 50.0167,
+      "lng": 5.5333
+    },
+    "population": 2700
+  },
+  {
+    "name": "Tellin",
+    "slug": "tellin-6927",
+    "zip": "6927",
+    "province_name": "Luxembourg",
+    "province_code": "LX",
+    "region": "Wallonie",
+    "coordinates": {
+      "lat": 50.0667,
+      "lng": 5.2167
+    },
+    "population": 2500
+  },
+  {
+    "name": "Tenneville",
+    "slug": "tenneville-6970",
+    "zip": "6970",
+    "province_name": "Luxembourg",
+    "province_code": "LX",
+    "region": "Wallonie",
+    "coordinates": {
+      "lat": 50.1,
+      "lng": 5.5333
+    },
+    "population": 2900
+  },
+  {
+    "name": "Tintigny",
+    "slug": "tintigny-6730",
+    "zip": "6730",
+    "province_name": "Luxembourg",
+    "province_code": "LX",
+    "region": "Wallonie",
+    "coordinates": {
+      "lat": 49.6833,
+      "lng": 5.5167
+    },
+    "population": 4200
+  },
+  {
+    "name": "Vaux-sur-Sûre",
+    "slug": "vaux-sur-sure-6640",
+    "zip": "6640",
+    "province_name": "Luxembourg",
+    "province_code": "LX",
+    "region": "Wallonie",
+    "coordinates": {
+      "lat": 49.9167,
+      "lng": 5.6167
+    },
+    "population": 5100
+  },
+  {
+    "name": "Vielsalm",
+    "slug": "vielsalm-6690",
+    "zip": "6690",
+    "province_name": "Luxembourg",
+    "province_code": "LX",
+    "region": "Wallonie",
+    "coordinates": {
+      "lat": 50.2833,
+      "lng": 5.9167
+    },
+    "population": 7800
+  },
+  {
+    "name": "Virton",
+    "slug": "virton-6760",
+    "zip": "6760",
+    "province_name": "Luxembourg",
+    "province_code": "LX",
+    "region": "Wallonie",
+    "coordinates": {
+      "lat": 49.5667,
+      "lng": 5.5333
+    },
+    "population": 11838
+  },
+  {
+    "name": "Wellin",
+    "slug": "wellin-6920",
+    "zip": "6920",
+    "province_name": "Luxembourg",
+    "province_code": "LX",
+    "region": "Wallonie",
+    "coordinates": {
+      "lat": 50.0833,
+      "lng": 5.1167
+    },
+    "population": 3100
+  },
+  {
+    "name": "Étalle",
+    "slug": "etalle-6740",
+    "zip": "6740",
+    "province_name": "Luxembourg",
+    "province_code": "LX",
+    "region": "Wallonie",
+    "coordinates": {
+      "lat": 49.6667,
+      "lng": 5.6
+    },
+    "population": 5800
+  },
+  {
+    "name": "Andenne",
+    "slug": "andenne-5300",
+    "zip": "5300",
+    "province_name": "Namur",
+    "province_code": "NA",
+    "region": "Wallonie",
+    "coordinates": {
+      "lat": 50.4903,
+      "lng": 5.0958
+    },
+    "population": 27596
+  },
+  {
+    "name": "Anhée",
+    "slug": "anhee-5537",
+    "zip": "5537",
+    "province_name": "Namur",
+    "province_code": "NA",
+    "region": "Wallonie",
+    "coordinates": {
+      "lat": 50.3167,
+      "lng": 4.8667
+    },
+    "population": 7200
+  },
+  {
+    "name": "Assesse",
+    "slug": "assesse-5330",
+    "zip": "5330",
+    "province_name": "Namur",
+    "province_code": "NA",
+    "region": "Wallonie",
+    "coordinates": {
+      "lat": 50.3667,
+      "lng": 4.9833
+    },
+    "population": 7000
+  },
+  {
+    "name": "Beauraing",
+    "slug": "beauraing-5570",
+    "zip": "5570",
+    "province_name": "Namur",
+    "province_code": "NA",
+    "region": "Wallonie",
+    "coordinates": {
+      "lat": 50.1167,
+      "lng": 4.9667
+    },
+    "population": 9200
+  },
+  {
+    "name": "Bièvre",
+    "slug": "bievre-5555",
+    "zip": "5555",
+    "province_name": "Namur",
+    "province_code": "NA",
+    "region": "Wallonie",
+    "coordinates": {
+      "lat": 49.95,
+      "lng": 5.0
+    },
+    "population": 3400
+  },
+  {
+    "name": "Ciney",
+    "slug": "ciney-5590",
+    "zip": "5590",
+    "province_name": "Namur",
+    "province_code": "NA",
+    "region": "Wallonie",
+    "coordinates": {
+      "lat": 50.2936,
+      "lng": 5.1028
+    },
+    "population": 16656
+  },
+  {
+    "name": "Couvin",
+    "slug": "couvin-5660",
+    "zip": "5660",
+    "province_name": "Namur",
+    "province_code": "NA",
+    "region": "Wallonie",
+    "coordinates": {
+      "lat": 50.0536,
+      "lng": 4.4931
+    },
+    "population": 13998
+  },
+  {
+    "name": "Dinant",
+    "slug": "dinant-5500",
+    "zip": "5500",
+    "province_name": "Namur",
+    "province_code": "NA",
+    "region": "Wallonie",
+    "coordinates": {
+      "lat": 50.2628,
+      "lng": 4.9119
+    },
+    "population": 13739
+  },
+  {
+    "name": "Doische",
+    "slug": "doische-5680",
+    "zip": "5680",
+    "province_name": "Namur",
+    "province_code": "NA",
+    "region": "Wallonie",
+    "coordinates": {
+      "lat": 50.1,
+      "lng": 4.7333
+    },
+    "population": 2900
+  },
+  {
+    "name": "Fernelmont",
+    "slug": "fernelmont-5380",
+    "zip": "5380",
+    "province_name": "Namur",
+    "province_code": "NA",
+    "region": "Wallonie",
+    "coordinates": {
+      "lat": 50.5333,
+      "lng": 4.9667
+    },
+    "population": 7600
+  },
+  {
+    "name": "Floreffe",
+    "slug": "floreffe-5150",
+    "zip": "5150",
+    "province_name": "Namur",
+    "province_code": "NA",
+    "region": "Wallonie",
+    "coordinates": {
+      "lat": 50.4333,
+      "lng": 4.7667
+    },
+    "population": 8006
+  },
+  {
+    "name": "Fosses-la-Ville",
+    "slug": "fosses-la-ville-5070",
+    "zip": "5070",
+    "province_name": "Namur",
+    "province_code": "NA",
+    "region": "Wallonie",
+    "coordinates": {
+      "lat": 50.3917,
+      "lng": 4.6917
+    },
+    "population": 9964
+  },
+  {
+    "name": "Gedinne",
+    "slug": "gedinne-5575",
+    "zip": "5575",
+    "province_name": "Namur",
+    "province_code": "NA",
+    "region": "Wallonie",
+    "coordinates": {
+      "lat": 49.9833,
+      "lng": 4.9333
+    },
+    "population": 4600
+  },
+  {
+    "name": "Gembloux",
+    "slug": "gembloux-5030",
+    "zip": "5030",
+    "province_name": "Namur",
+    "province_code": "NA",
+    "region": "Wallonie",
+    "coordinates": {
+      "lat": 50.5608,
+      "lng": 4.6944
+    },
+    "population": 25186
+  },
+  {
+    "name": "Gesves",
+    "slug": "gesves-5340",
+    "zip": "5340",
+    "province_name": "Namur",
+    "province_code": "NA",
+    "region": "Wallonie",
+    "coordinates": {
+      "lat": 50.4,
+      "lng": 5.0667
+    },
+    "population": 7100
+  },
+  {
+    "name": "Hamois",
+    "slug": "hamois-5360",
+    "zip": "5360",
+    "province_name": "Namur",
+    "province_code": "NA",
+    "region": "Wallonie",
+    "coordinates": {
+      "lat": 50.3333,
+      "lng": 5.15
+    },
+    "population": 7100
+  },
+  {
+    "name": "Hastière",
+    "slug": "hastiere-5540",
+    "zip": "5540",
+    "province_name": "Namur",
+    "province_code": "NA",
+    "region": "Wallonie",
+    "coordinates": {
+      "lat": 50.2167,
+      "lng": 4.8333
+    },
+    "population": 5900
+  },
+  {
+    "name": "Havelange",
+    "slug": "havelange-5370",
+    "zip": "5370",
+    "province_name": "Namur",
+    "province_code": "NA",
+    "region": "Wallonie",
+    "coordinates": {
+      "lat": 50.3833,
+      "lng": 5.2333
+    },
+    "population": 5100
+  },
+  {
+    "name": "Houyet",
+    "slug": "houyet-5560",
+    "zip": "5560",
+    "province_name": "Namur",
+    "province_code": "NA",
+    "region": "Wallonie",
+    "coordinates": {
+      "lat": 50.1833,
+      "lng": 5.0167
+    },
+    "population": 4800
+  },
+  {
+    "name": "Jemeppe-sur-Sambre",
+    "slug": "jemeppe-sur-sambre-5190",
+    "zip": "5190",
+    "province_name": "Namur",
+    "province_code": "NA",
+    "region": "Wallonie",
+    "coordinates": {
+      "lat": 50.4333,
+      "lng": 4.6667
+    },
+    "population": 19000
+  },
+  {
+    "name": "La Bruyère",
+    "slug": "la-bruyere-5080",
+    "zip": "5080",
+    "province_name": "Namur",
+    "province_code": "NA",
+    "region": "Wallonie",
+    "coordinates": {
+      "lat": 50.5,
+      "lng": 4.7833
+    },
+    "population": 9200
+  },
+  {
+    "name": "Mettet",
+    "slug": "mettet-5640",
+    "zip": "5640",
+    "province_name": "Namur",
+    "province_code": "NA",
+    "region": "Wallonie",
+    "coordinates": {
+      "lat": 50.3167,
+      "lng": 4.6667
+    },
+    "population": 12800
+  },
+  {
+    "name": "Namur",
+    "slug": "namur-5000",
+    "zip": "5000",
+    "province_name": "Namur",
+    "province_code": "NA",
+    "region": "Wallonie",
+    "coordinates": {
+      "lat": 50.4674,
+      "lng": 4.872
+    },
+    "population": 112273
+  },
+  {
+    "name": "Ohey",
+    "slug": "ohey-5350",
+    "zip": "5350",
+    "province_name": "Namur",
+    "province_code": "NA",
+    "region": "Wallonie",
+    "coordinates": {
+      "lat": 50.4167,
+      "lng": 5.1167
+    },
+    "population": 5000
+  },
+  {
+    "name": "Onhaye",
+    "slug": "onhaye-5520",
+    "zip": "5520",
+    "province_name": "Namur",
+    "province_code": "NA",
+    "region": "Wallonie",
+    "coordinates": {
+      "lat": 50.2333,
+      "lng": 4.85
+    },
+    "population": 3200
+  },
+  {
+    "name": "Philippeville",
+    "slug": "philippeville-5600",
+    "zip": "5600",
+    "province_name": "Namur",
+    "province_code": "NA",
+    "region": "Wallonie",
+    "coordinates": {
+      "lat": 50.195,
+      "lng": 4.5417
+    },
+    "population": 9255
+  },
+  {
+    "name": "Profondeville",
+    "slug": "profondeville-5170",
+    "zip": "5170",
+    "province_name": "Namur",
+    "province_code": "NA",
+    "region": "Wallonie",
+    "coordinates": {
+      "lat": 50.3833,
+      "lng": 4.8667
+    },
+    "population": 12361
+  },
+  {
+    "name": "Rochefort",
+    "slug": "rochefort-5580",
+    "zip": "5580",
+    "province_name": "Namur",
+    "province_code": "NA",
+    "region": "Wallonie",
+    "coordinates": {
+      "lat": 50.1603,
+      "lng": 5.2222
+    },
+    "population": 12876
+  },
+  {
+    "name": "Sambreville",
+    "slug": "sambreville-5060",
+    "zip": "5060",
+    "province_name": "Namur",
+    "province_code": "NA",
+    "region": "Wallonie",
+    "coordinates": {
+      "lat": 50.4333,
+      "lng": 4.6167
+    },
+    "population": 28311
+  },
+  {
+    "name": "Sombreffe",
+    "slug": "sombreffe-5140",
+    "zip": "5140",
+    "province_name": "Namur",
+    "province_code": "NA",
+    "region": "Wallonie",
+    "coordinates": {
+      "lat": 50.5333,
+      "lng": 4.6
+    },
+    "population": 8356
+  },
+  {
+    "name": "Somme-Leuze",
+    "slug": "somme-leuze-5377",
+    "zip": "5377",
+    "province_name": "Namur",
+    "province_code": "NA",
+    "region": "Wallonie",
+    "coordinates": {
+      "lat": 50.35,
+      "lng": 5.3
+    },
+    "population": 5600
+  },
+  {
+    "name": "Viroinval",
+    "slug": "viroinval-5670",
+    "zip": "5670",
+    "province_name": "Namur",
+    "province_code": "NA",
+    "region": "Wallonie",
+    "coordinates": {
+      "lat": 50.0833,
+      "lng": 4.5667
+    },
+    "population": 5700
+  },
+  {
+    "name": "Vresse-sur-Semois",
+    "slug": "vresse-sur-semois-5550",
+    "zip": "5550",
+    "province_name": "Namur",
+    "province_code": "NA",
+    "region": "Wallonie",
+    "coordinates": {
+      "lat": 49.8833,
+      "lng": 4.95
+    },
+    "population": 2700
+  },
+  {
+    "name": "Walcourt",
+    "slug": "walcourt-5650",
+    "zip": "5650",
+    "province_name": "Namur",
+    "province_code": "NA",
+    "region": "Wallonie",
+    "coordinates": {
+      "lat": 50.25,
+      "lng": 4.4333
+    },
+    "population": 18500
+  },
+  {
+    "name": "Yvoir",
+    "slug": "yvoir-5530",
+    "zip": "5530",
+    "province_name": "Namur",
+    "province_code": "NA",
+    "region": "Wallonie",
+    "coordinates": {
+      "lat": 50.325,
+      "lng": 4.8833
+    },
+    "population": 9189
+  },
+  {
+    "name": "Éghezée",
+    "slug": "eghezee-5310",
+    "zip": "5310",
+    "province_name": "Namur",
+    "province_code": "NA",
+    "region": "Wallonie",
+    "coordinates": {
+      "lat": 50.5917,
+      "lng": 4.9083
+    },
+    "population": 16143
+  },
+  {
+    "name": "Aartselaar",
+    "name_nl": "Aartselaar",
+    "slug": "aartselaar-2630",
+    "zip": "2630",
+    "province_name": "Anvers",
+    "province_code": "ANT",
+    "region": "Flandre",
+    "coordinates": {
+      "lat": 51.1333,
+      "lng": 4.387
+    },
+    "population": 14700
+  },
+  {
+    "name": "Anvers",
+    "name_nl": "Antwerpen",
+    "slug": "anvers-2000",
+    "zip": "2000",
+    "province_name": "Anvers",
+    "province_code": "ANT",
+    "region": "Flandre",
+    "coordinates": {
+      "lat": 51.2211,
+      "lng": 4.3997
+    },
+    "population": 530000
+  },
+  {
+    "name": "Balen",
+    "name_nl": "Balen",
+    "slug": "balen-2490",
+    "zip": "2490",
+    "province_name": "Anvers",
+    "province_code": "ANT",
+    "region": "Flandre",
+    "coordinates": {
+      "lat": 51.1718,
+      "lng": 5.1938
+    },
+    "population": 21800
+  },
+  {
+    "name": "Beerse",
+    "name_nl": "Beerse",
+    "slug": "beerse-2340",
+    "zip": "2340",
+    "province_name": "Anvers",
+    "province_code": "ANT",
+    "region": "Flandre",
+    "coordinates": {
+      "lat": 51.3135,
+      "lng": 4.8376
+    },
+    "population": 17900
+  },
+  {
+    "name": "Berlaar",
+    "name_nl": "Berlaar",
+    "slug": "berlaar-2590",
+    "zip": "2590",
+    "province_name": "Anvers",
+    "province_code": "ANT",
+    "region": "Flandre",
+    "coordinates": {
+      "lat": 51.103,
+      "lng": 4.664
+    },
+    "population": 11800
+  },
+  {
+    "name": "Boechout",
+    "name_nl": "Boechout",
+    "slug": "boechout-2530",
+    "zip": "2530",
+    "province_name": "Anvers",
+    "province_code": "ANT",
+    "region": "Flandre",
+    "coordinates": {
+      "lat": 51.1597,
+      "lng": 4.5104
+    },
+    "population": 13600
+  },
+  {
+    "name": "Bonheiden",
+    "name_nl": "Bonheiden",
+    "slug": "bonheiden-2820",
+    "zip": "2820",
+    "province_name": "Anvers",
+    "province_code": "ANT",
+    "region": "Flandre",
+    "coordinates": {
+      "lat": 51.0261,
+      "lng": 4.5378
+    },
+    "population": 15500
+  },
+  {
+    "name": "Boom",
+    "name_nl": "Boom",
+    "slug": "boom-2850",
+    "zip": "2850",
+    "province_name": "Anvers",
+    "province_code": "ANT",
+    "region": "Flandre",
+    "coordinates": {
+      "lat": 51.0874,
+      "lng": 4.3667
+    },
+    "population": 19000
+  },
+  {
+    "name": "Bornem",
+    "name_nl": "Bornem",
+    "slug": "bornem-2880",
+    "zip": "2880",
+    "province_name": "Anvers",
+    "province_code": "ANT",
+    "region": "Flandre",
+    "coordinates": {
+      "lat": 51.0925,
+      "lng": 4.2423
+    },
+    "population": 22000
+  },
+  {
+    "name": "Borsbeek",
+    "name_nl": "Borsbeek",
+    "slug": "borsbeek-2150",
+    "zip": "2150",
+    "province_name": "Anvers",
+    "province_code": "ANT",
+    "region": "Flandre",
+    "coordinates": {
+      "lat": 51.1929,
+      "lng": 4.489
+    },
+    "population": 11200
+  },
+  {
+    "name": "Brasschaat",
+    "name_nl": "Brasschaat",
+    "slug": "brasschaat-2930",
+    "zip": "2930",
+    "province_name": "Anvers",
+    "province_code": "ANT",
+    "region": "Flandre",
+    "coordinates": {
+      "lat": 51.2931,
+      "lng": 4.4893
+    },
+    "population": 38600
+  },
+  {
+    "name": "Brecht",
+    "name_nl": "Brecht",
+    "slug": "brecht-2960",
+    "zip": "2960",
+    "province_name": "Anvers",
+    "province_code": "ANT",
+    "region": "Flandre",
+    "coordinates": {
+      "lat": 51.3348,
+      "lng": 4.5972
+    },
+    "population": 29200
+  },
+  {
+    "name": "Dessel",
+    "name_nl": "Dessel",
+    "slug": "dessel-2480",
+    "zip": "2480",
+    "province_name": "Anvers",
+    "province_code": "ANT",
+    "region": "Flandre",
+    "coordinates": {
+      "lat": 51.2396,
+      "lng": 5.1132
+    },
+    "population": 9600
+  },
+  {
+    "name": "Duffel",
+    "name_nl": "Duffel",
+    "slug": "duffel-2570",
+    "zip": "2570",
+    "province_name": "Anvers",
+    "province_code": "ANT",
+    "region": "Flandre",
+    "coordinates": {
+      "lat": 51.0957,
+      "lng": 4.5062
+    },
+    "population": 17200
+  },
+  {
+    "name": "Edegem",
+    "name_nl": "Edegem",
+    "slug": "edegem-2650",
+    "zip": "2650",
+    "province_name": "Anvers",
+    "province_code": "ANT",
+    "region": "Flandre",
+    "coordinates": {
+      "lat": 51.1575,
+      "lng": 4.4384
+    },
+    "population": 22900
+  },
+  {
+    "name": "Essen",
+    "name_nl": "Essen",
+    "slug": "essen-2910",
+    "zip": "2910",
+    "province_name": "Anvers",
+    "province_code": "ANT",
+    "region": "Flandre",
+    "coordinates": {
+      "lat": 51.4678,
+      "lng": 4.4701
+    },
+    "population": 19200
+  },
+  {
+    "name": "Geel",
+    "name_nl": "Geel",
+    "slug": "geel-2440",
+    "zip": "2440",
+    "province_name": "Anvers",
+    "province_code": "ANT",
+    "region": "Flandre",
+    "coordinates": {
+      "lat": 51.1611,
+      "lng": 4.9903
+    },
+    "population": 40500
+  },
+  {
+    "name": "Grobbendonk",
+    "name_nl": "Grobbendonk",
+    "slug": "grobbendonk-2280",
+    "zip": "2280",
+    "province_name": "Anvers",
+    "province_code": "ANT",
+    "region": "Flandre",
+    "coordinates": {
+      "lat": 51.1887,
+      "lng": 4.7319
+    },
+    "population": 11600
+  },
+  {
+    "name": "Heist-op-den-Berg",
+    "name_nl": "Heist-op-den-Berg",
+    "slug": "heist-op-den-berg-2220",
+    "zip": "2220",
+    "province_name": "Anvers",
+    "province_code": "ANT",
+    "region": "Flandre",
+    "coordinates": {
+      "lat": 51.0876,
+      "lng": 4.7191
+    },
+    "population": 43500
+  },
+  {
+    "name": "Hemiksem",
+    "name_nl": "Hemiksem",
+    "slug": "hemiksem-2620",
+    "zip": "2620",
+    "province_name": "Anvers",
+    "province_code": "ANT",
+    "region": "Flandre",
+    "coordinates": {
+      "lat": 51.1442,
+      "lng": 4.3421
+    },
+    "population": 12400
+  },
+  {
+    "name": "Herentals",
+    "name_nl": "Herentals",
+    "slug": "herentals-2200",
+    "zip": "2200",
+    "province_name": "Anvers",
+    "province_code": "ANT",
+    "region": "Flandre",
+    "coordinates": {
+      "lat": 51.1856,
+      "lng": 4.8346
+    },
+    "population": 28200
+  },
+  {
+    "name": "Herenthout",
+    "name_nl": "Herenthout",
+    "slug": "herenthout-2270",
+    "zip": "2270",
+    "province_name": "Anvers",
+    "province_code": "ANT",
+    "region": "Flandre",
+    "coordinates": {
+      "lat": 51.1392,
+      "lng": 4.7544
+    },
+    "population": 9300
+  },
+  {
+    "name": "Herselt",
+    "name_nl": "Herselt",
+    "slug": "herselt-2230",
+    "zip": "2230",
+    "province_name": "Anvers",
+    "province_code": "ANT",
+    "region": "Flandre",
+    "coordinates": {
+      "lat": 51.0554,
+      "lng": 4.9018
+    },
+    "population": 14400
+  },
+  {
+    "name": "Hoogstraten",
+    "name_nl": "Hoogstraten",
+    "slug": "hoogstraten-2320",
+    "zip": "2320",
+    "province_name": "Anvers",
+    "province_code": "ANT",
+    "region": "Flandre",
+    "coordinates": {
+      "lat": 51.3957,
+      "lng": 4.7441
+    },
+    "population": 21000
+  },
+  {
+    "name": "Hove",
+    "name_nl": "Hove",
+    "slug": "hove-2540",
+    "zip": "2540",
+    "province_name": "Anvers",
+    "province_code": "ANT",
+    "region": "Flandre",
+    "coordinates": {
+      "lat": 51.1486,
+      "lng": 4.4774
+    },
+    "population": 8800
+  },
+  {
+    "name": "Hulshout",
+    "name_nl": "Hulshout",
+    "slug": "hulshout-2235",
+    "zip": "2235",
+    "province_name": "Anvers",
+    "province_code": "ANT",
+    "region": "Flandre",
+    "coordinates": {
+      "lat": 51.0461,
+      "lng": 4.8013
+    },
+    "population": 10200
+  },
+  {
+    "name": "Kalmthout",
+    "name_nl": "Kalmthout",
+    "slug": "kalmthout-2920",
+    "zip": "2920",
+    "province_name": "Anvers",
+    "province_code": "ANT",
+    "region": "Flandre",
+    "coordinates": {
+      "lat": 51.3833,
+      "lng": 4.4763
+    },
+    "population": 18800
+  },
+  {
+    "name": "Kapellen",
+    "name_nl": "Kapellen",
+    "slug": "kapellen-2950",
+    "zip": "2950",
+    "province_name": "Anvers",
+    "province_code": "ANT",
+    "region": "Flandre",
+    "coordinates": {
+      "lat": 51.3328,
+      "lng": 4.4312
+    },
+    "population": 26900
+  },
+  {
+    "name": "Kasterlee",
+    "name_nl": "Kasterlee",
+    "slug": "kasterlee-2460",
+    "zip": "2460",
+    "province_name": "Anvers",
+    "province_code": "ANT",
+    "region": "Flandre",
+    "coordinates": {
+      "lat": 51.2408,
+      "lng": 4.9678
+    },
+    "population": 18800
+  },
+  {
+    "name": "Kontich",
+    "name_nl": "Kontich",
+    "slug": "kontich-2550",
+    "zip": "2550",
+    "province_name": "Anvers",
+    "province_code": "ANT",
+    "region": "Flandre",
+    "coordinates": {
+      "lat": 51.1344,
+      "lng": 4.4456
+    },
+    "population": 22000
+  },
+  {
+    "name": "Laakdal",
+    "name_nl": "Laakdal",
+    "slug": "laakdal-2430",
+    "zip": "2430",
+    "province_name": "Anvers",
+    "province_code": "ANT",
+    "region": "Flandre",
+    "coordinates": {
+      "lat": 51.1017,
+      "lng": 4.9973
+    },
+    "population": 16300
+  },
+  {
+    "name": "Lier",
+    "name_nl": "Lier",
+    "slug": "lier-2500",
+    "zip": "2500",
+    "province_name": "Anvers",
+    "province_code": "ANT",
+    "region": "Flandre",
+    "coordinates": {
+      "lat": 51.0929,
+      "lng": 4.6034
+    },
+    "population": 36500
+  },
+  {
+    "name": "Lille",
+    "name_nl": "Lille",
+    "slug": "lille-2275",
+    "zip": "2275",
+    "province_name": "Anvers",
+    "province_code": "ANT",
+    "region": "Flandre",
+    "coordinates": {
+      "lat": 51.2676,
+      "lng": 4.8677
+    },
+    "population": 17100
+  },
+  {
+    "name": "Lint",
+    "name_nl": "Lint",
+    "slug": "lint-2547",
+    "zip": "2547",
+    "province_name": "Anvers",
+    "province_code": "ANT",
+    "region": "Flandre",
+    "coordinates": {
+      "lat": 51.1268,
+      "lng": 4.4922
+    },
+    "population": 9200
+  },
+  {
+    "name": "Malle",
+    "name_nl": "Malle",
+    "slug": "malle-2390",
+    "zip": "2390",
+    "province_name": "Anvers",
+    "province_code": "ANT",
+    "region": "Flandre",
+    "coordinates": {
+      "lat": 51.3001,
+      "lng": 4.715
+    },
+    "population": 15400
+  },
+  {
+    "name": "Mechelen",
+    "name_nl": "Mechelen",
+    "slug": "mechelen-2800",
+    "zip": "2800",
+    "province_name": "Anvers",
+    "province_code": "ANT",
+    "region": "Flandre",
+    "coordinates": {
+      "lat": 51.028,
+      "lng": 4.4713
+    },
+    "population": 87000
+  },
+  {
+    "name": "Meerhout",
+    "name_nl": "Meerhout",
+    "slug": "meerhout-2450",
+    "zip": "2450",
+    "province_name": "Anvers",
+    "province_code": "ANT",
+    "region": "Flandre",
+    "coordinates": {
+      "lat": 51.1317,
+      "lng": 5.0772
+    },
+    "population": 10400
+  },
+  {
+    "name": "Merksplas",
+    "name_nl": "Merksplas",
+    "slug": "merksplas-2330",
+    "zip": "2330",
+    "province_name": "Anvers",
+    "province_code": "ANT",
+    "region": "Flandre",
+    "coordinates": {
+      "lat": 51.3581,
+      "lng": 4.8628
+    },
+    "population": 8600
+  },
+  {
+    "name": "Mol",
+    "name_nl": "Mol",
+    "slug": "mol-2400",
+    "zip": "2400",
+    "province_name": "Anvers",
+    "province_code": "ANT",
+    "region": "Flandre",
+    "coordinates": {
+      "lat": 51.184,
+      "lng": 5.1155
+    },
+    "population": 37000
+  },
+  {
+    "name": "Mortsel",
+    "name_nl": "Mortsel",
+    "slug": "mortsel-2640",
+    "zip": "2640",
+    "province_name": "Anvers",
+    "province_code": "ANT",
+    "region": "Flandre",
+    "coordinates": {
+      "lat": 51.1742,
+      "lng": 4.4593
+    },
+    "population": 26200
+  },
+  {
+    "name": "Niel",
+    "name_nl": "Niel",
+    "slug": "niel-2845",
+    "zip": "2845",
+    "province_name": "Anvers",
+    "province_code": "ANT",
+    "region": "Flandre",
+    "coordinates": {
+      "lat": 51.1099,
+      "lng": 4.3303
+    },
+    "population": 10600
+  },
+  {
+    "name": "Nijlen",
+    "name_nl": "Nijlen",
+    "slug": "nijlen-2560",
+    "zip": "2560",
+    "province_name": "Anvers",
+    "province_code": "ANT",
+    "region": "Flandre",
+    "coordinates": {
+      "lat": 51.1364,
+      "lng": 4.6923
+    },
+    "population": 23000
+  },
+  {
+    "name": "Olen",
+    "name_nl": "Olen",
+    "slug": "olen-2250",
+    "zip": "2250",
+    "province_name": "Anvers",
+    "province_code": "ANT",
+    "region": "Flandre",
+    "coordinates": {
+      "lat": 51.1439,
+      "lng": 4.8597
+    },
+    "population": 12800
+  },
+  {
+    "name": "Putte",
+    "name_nl": "Putte",
+    "slug": "putte-2580",
+    "zip": "2580",
+    "province_name": "Anvers",
+    "province_code": "ANT",
+    "region": "Flandre",
+    "coordinates": {
+      "lat": 51.063,
+      "lng": 4.6631
+    },
+    "population": 17100
+  },
+  {
+    "name": "Puurs-Sint-Amands",
+    "name_nl": "Puurs-Sint-Amands",
+    "slug": "puurs-sint-amands-2870",
+    "zip": "2870",
+    "province_name": "Anvers",
+    "province_code": "ANT",
+    "region": "Flandre",
+    "coordinates": {
+      "lat": 51.0453,
+      "lng": 4.3136
+    },
+    "population": 27000
+  },
+  {
+    "name": "Ranst",
+    "name_nl": "Ranst",
+    "slug": "ranst-2520",
+    "zip": "2520",
+    "province_name": "Anvers",
+    "province_code": "ANT",
+    "region": "Flandre",
+    "coordinates": {
+      "lat": 51.1814,
+      "lng": 4.5967
+    },
+    "population": 19900
+  },
+  {
+    "name": "Ravels",
+    "name_nl": "Ravels",
+    "slug": "ravels-2380",
+    "zip": "2380",
+    "province_name": "Anvers",
+    "province_code": "ANT",
+    "region": "Flandre",
+    "coordinates": {
+      "lat": 51.3809,
+      "lng": 5.0198
+    },
+    "population": 15000
+  },
+  {
+    "name": "Retie",
+    "name_nl": "Retie",
+    "slug": "retie-2470",
+    "zip": "2470",
+    "province_name": "Anvers",
+    "province_code": "ANT",
+    "region": "Flandre",
+    "coordinates": {
+      "lat": 51.2676,
+      "lng": 5.0844
+    },
+    "population": 11100
+  },
+  {
+    "name": "Rijkevorsel",
+    "name_nl": "Rijkevorsel",
+    "slug": "rijkevorsel-2310",
+    "zip": "2310",
+    "province_name": "Anvers",
+    "province_code": "ANT",
+    "region": "Flandre",
+    "coordinates": {
+      "lat": 51.3495,
+      "lng": 4.7607
+    },
+    "population": 12000
+  },
+  {
+    "name": "Rumst",
+    "name_nl": "Rumst",
+    "slug": "rumst-2840",
+    "zip": "2840",
+    "province_name": "Anvers",
+    "province_code": "ANT",
+    "region": "Flandre",
+    "coordinates": {
+      "lat": 51.1045,
+      "lng": 4.4059
+    },
+    "population": 15800
+  },
+  {
+    "name": "Schelle",
+    "name_nl": "Schelle",
+    "slug": "schelle-2627",
+    "zip": "2627",
+    "province_name": "Anvers",
+    "province_code": "ANT",
+    "region": "Flandre",
+    "coordinates": {
+      "lat": 51.1246,
+      "lng": 4.3362
+    },
+    "population": 8400
+  },
+  {
+    "name": "Schilde",
+    "name_nl": "Schilde",
+    "slug": "schilde-2970",
+    "zip": "2970",
+    "province_name": "Anvers",
+    "province_code": "ANT",
+    "region": "Flandre",
+    "coordinates": {
+      "lat": 51.2625,
+      "lng": 4.5556
+    },
+    "population": 20200
+  },
+  {
+    "name": "Schoten",
+    "name_nl": "Schoten",
+    "slug": "schoten-2900",
+    "zip": "2900",
+    "province_name": "Anvers",
+    "province_code": "ANT",
+    "region": "Flandre",
+    "coordinates": {
+      "lat": 51.2516,
+      "lng": 4.498
+    },
+    "population": 35500
+  },
+  {
+    "name": "Sint-Katelijne-Waver",
+    "name_nl": "Sint-Katelijne-Waver",
+    "slug": "sint-katelijne-waver-2860",
+    "zip": "2860",
+    "province_name": "Anvers",
+    "province_code": "ANT",
+    "region": "Flandre",
+    "coordinates": {
+      "lat": 51.0623,
+      "lng": 4.5114
+    },
+    "population": 21300
+  },
+  {
+    "name": "Stabroek",
+    "name_nl": "Stabroek",
+    "slug": "stabroek-2940",
+    "zip": "2940",
+    "province_name": "Anvers",
+    "province_code": "ANT",
+    "region": "Flandre",
+    "coordinates": {
+      "lat": 51.3066,
+      "lng": 4.4047
+    },
+    "population": 19200
+  },
+  {
+    "name": "Turnhout",
+    "name_nl": "Turnhout",
+    "slug": "turnhout-2300",
+    "zip": "2300",
+    "province_name": "Anvers",
+    "province_code": "ANT",
+    "region": "Flandre",
+    "coordinates": {
+      "lat": 51.3234,
+      "lng": 4.9485
+    },
+    "population": 45000
+  },
+  {
+    "name": "Vorselaar",
+    "name_nl": "Vorselaar",
+    "slug": "vorselaar-2290",
+    "zip": "2290",
+    "province_name": "Anvers",
+    "province_code": "ANT",
+    "region": "Flandre",
+    "coordinates": {
+      "lat": 51.2023,
+      "lng": 4.7695
+    },
+    "population": 8000
+  },
+  {
+    "name": "Vosselaar",
+    "name_nl": "Vosselaar",
+    "slug": "vosselaar-2350",
+    "zip": "2350",
+    "province_name": "Anvers",
+    "province_code": "ANT",
+    "region": "Flandre",
+    "coordinates": {
+      "lat": 51.3129,
+      "lng": 4.8878
+    },
+    "population": 11200
+  },
+  {
+    "name": "Westerlo",
+    "name_nl": "Westerlo",
+    "slug": "westerlo-2260",
+    "zip": "2260",
+    "province_name": "Anvers",
+    "province_code": "ANT",
+    "region": "Flandre",
+    "coordinates": {
+      "lat": 51.1378,
+      "lng": 4.9053
+    },
+    "population": 25200
+  },
+  {
+    "name": "Wijnegem",
+    "name_nl": "Wijnegem",
+    "slug": "wijnegem-2110",
+    "zip": "2110",
+    "province_name": "Anvers",
+    "province_code": "ANT",
+    "region": "Flandre",
+    "coordinates": {
+      "lat": 51.2271,
+      "lng": 4.5225
+    },
+    "population": 9600
+  },
+  {
+    "name": "Willebroek",
+    "name_nl": "Willebroek",
+    "slug": "willebroek-2830",
+    "zip": "2830",
+    "province_name": "Anvers",
+    "province_code": "ANT",
+    "region": "Flandre",
+    "coordinates": {
+      "lat": 51.0565,
+      "lng": 4.3724
+    },
+    "population": 27000
+  },
+  {
+    "name": "Wommelgem",
+    "name_nl": "Wommelgem",
+    "slug": "wommelgem-2160",
+    "zip": "2160",
+    "province_name": "Anvers",
+    "province_code": "ANT",
+    "region": "Flandre",
+    "coordinates": {
+      "lat": 51.2031,
+      "lng": 4.5238
+    },
+    "population": 13500
+  },
+  {
+    "name": "Wuustwezel",
+    "name_nl": "Wuustwezel",
+    "slug": "wuustwezel-2990",
+    "zip": "2990",
+    "province_name": "Anvers",
+    "province_code": "ANT",
+    "region": "Flandre",
+    "coordinates": {
+      "lat": 51.3994,
+      "lng": 4.6428
+    },
+    "population": 20500
+  },
+  {
+    "name": "Zandhoven",
+    "name_nl": "Zandhoven",
+    "slug": "zandhoven-2240",
+    "zip": "2240",
+    "province_name": "Anvers",
+    "province_code": "ANT",
+    "region": "Flandre",
+    "coordinates": {
+      "lat": 51.199,
+      "lng": 4.6357
+    },
+    "population": 13400
+  },
+  {
+    "name": "Zoersel",
+    "name_nl": "Zoersel",
+    "slug": "zoersel-2980",
+    "zip": "2980",
+    "province_name": "Anvers",
+    "province_code": "ANT",
+    "region": "Flandre",
+    "coordinates": {
+      "lat": 51.2428,
+      "lng": 4.6456
+    },
+    "population": 22100
+  },
+  {
+    "name": "Zwijndrecht",
+    "name_nl": "Zwijndrecht",
+    "slug": "zwijndrecht-2070",
+    "zip": "2070",
+    "province_name": "Anvers",
+    "province_code": "ANT",
+    "region": "Flandre",
+    "coordinates": {
+      "lat": 51.2028,
+      "lng": 4.3416
+    },
+    "population": 19400
+  },
+  {
+    "name": "Aarschot",
+    "name_nl": "Aarschot",
+    "slug": "aarschot-3200",
+    "zip": "3200",
+    "province_name": "Brabant flamand",
+    "province_code": "VBR",
+    "region": "Flandre",
+    "coordinates": {
+      "lat": 50.9842,
+      "lng": 4.8246
+    },
+    "population": 30200
+  },
+  {
+    "name": "Affligem",
+    "name_nl": "Affligem",
+    "slug": "affligem-1790",
+    "zip": "1790",
+    "province_name": "Brabant flamand",
+    "province_code": "VBR",
+    "region": "Flandre",
+    "coordinates": {
+      "lat": 50.9035,
+      "lng": 4.1175
+    },
+    "population": 13400
+  },
+  {
+    "name": "Asse",
+    "name_nl": "Asse",
+    "slug": "asse-1730",
+    "zip": "1730",
+    "province_name": "Brabant flamand",
+    "province_code": "VBR",
+    "region": "Flandre",
+    "coordinates": {
+      "lat": 50.9136,
+      "lng": 4.1804
+    },
+    "population": 33200
+  },
+  {
+    "name": "Beersel",
+    "name_nl": "Beersel",
+    "slug": "beersel-1650",
+    "zip": "1650",
+    "province_name": "Brabant flamand",
+    "province_code": "VBR",
+    "region": "Flandre",
+    "coordinates": {
+      "lat": 50.7684,
+      "lng": 4.3051
+    },
+    "population": 25600
+  },
+  {
+    "name": "Begijnendijk",
+    "name_nl": "Begijnendijk",
+    "slug": "begijnendijk-3130",
+    "zip": "3130",
+    "province_name": "Brabant flamand",
+    "province_code": "VBR",
+    "region": "Flandre",
+    "coordinates": {
+      "lat": 51.0242,
+      "lng": 4.7826
+    },
+    "population": 10200
+  },
+  {
+    "name": "Bertem",
+    "name_nl": "Bertem",
+    "slug": "bertem-3060",
+    "zip": "3060",
+    "province_name": "Brabant flamand",
+    "province_code": "VBR",
+    "region": "Flandre",
+    "coordinates": {
+      "lat": 50.8706,
+      "lng": 4.6323
+    },
+    "population": 10400
+  },
+  {
+    "name": "Bever",
+    "name_nl": "Bever",
+    "slug": "bever-1547",
+    "zip": "1547",
+    "province_name": "Brabant flamand",
+    "province_code": "VBR",
+    "region": "Flandre",
+    "coordinates": {
+      "lat": 50.7164,
+      "lng": 3.9431
+    },
+    "population": 2200
+  },
+  {
+    "name": "Bierbeek",
+    "name_nl": "Bierbeek",
+    "slug": "bierbeek-3360",
+    "zip": "3360",
+    "province_name": "Brabant flamand",
+    "province_code": "VBR",
+    "region": "Flandre",
+    "coordinates": {
+      "lat": 50.8241,
+      "lng": 4.7714
+    },
+    "population": 10100
+  },
+  {
+    "name": "Boortmeerbeek",
+    "name_nl": "Boortmeerbeek",
+    "slug": "boortmeerbeek-3190",
+    "zip": "3190",
+    "province_name": "Brabant flamand",
+    "province_code": "VBR",
+    "region": "Flandre",
+    "coordinates": {
+      "lat": 50.9783,
+      "lng": 4.5758
+    },
+    "population": 12800
+  },
+  {
+    "name": "Boutersem",
+    "name_nl": "Boutersem",
+    "slug": "boutersem-3370",
+    "zip": "3370",
+    "province_name": "Brabant flamand",
+    "province_code": "VBR",
+    "region": "Flandre",
+    "coordinates": {
+      "lat": 50.8473,
+      "lng": 4.8336
+    },
+    "population": 8500
+  },
+  {
+    "name": "Diest",
+    "name_nl": "Diest",
+    "slug": "diest-3290",
+    "zip": "3290",
+    "province_name": "Brabant flamand",
+    "province_code": "VBR",
+    "region": "Flandre",
+    "coordinates": {
+      "lat": 51.0392,
+      "lng": 5.0965
+    },
+    "population": 24200
+  },
+  {
+    "name": "Dilbeek",
+    "name_nl": "Dilbeek",
+    "slug": "dilbeek-1700",
+    "zip": "1700",
+    "province_name": "Brabant flamand",
+    "province_code": "VBR",
+    "region": "Flandre",
+    "coordinates": {
+      "lat": 50.8441,
+      "lng": 4.2657
+    },
+    "population": 43800
+  },
+  {
+    "name": "Drogenbos",
+    "name_nl": "Drogenbos",
+    "slug": "drogenbos-1620",
+    "zip": "1620",
+    "province_name": "Brabant flamand",
+    "province_code": "VBR",
+    "region": "Flandre",
+    "coordinates": {
+      "lat": 50.7865,
+      "lng": 4.3174
+    },
+    "population": 5200
+  },
+  {
+    "name": "Galmaarden",
+    "name_nl": "Galmaarden",
+    "slug": "galmaarden-1570",
+    "zip": "1570",
+    "province_name": "Brabant flamand",
+    "province_code": "VBR",
+    "region": "Flandre",
+    "coordinates": {
+      "lat": 50.7527,
+      "lng": 3.971
+    },
+    "population": 8900
+  },
+  {
+    "name": "Geetbets",
+    "name_nl": "Geetbets",
+    "slug": "geetbets-3450",
+    "zip": "3450",
+    "province_name": "Brabant flamand",
+    "province_code": "VBR",
+    "region": "Flandre",
+    "coordinates": {
+      "lat": 50.8952,
+      "lng": 5.1016
+    },
+    "population": 6200
+  },
+  {
+    "name": "Glabbeek",
+    "name_nl": "Glabbeek",
+    "slug": "glabbeek-3380",
+    "zip": "3380",
+    "province_name": "Brabant flamand",
+    "province_code": "VBR",
+    "region": "Flandre",
+    "coordinates": {
+      "lat": 50.851,
+      "lng": 4.9601
+    },
+    "population": 5800
+  },
+  {
+    "name": "Gooik",
+    "name_nl": "Gooik",
+    "slug": "gooik-1755",
+    "zip": "1755",
+    "province_name": "Brabant flamand",
+    "province_code": "VBR",
+    "region": "Flandre",
+    "coordinates": {
+      "lat": 50.798,
+      "lng": 4.103
+    },
+    "population": 9400
+  },
+  {
+    "name": "Grimbergen",
+    "name_nl": "Grimbergen",
+    "slug": "grimbergen-1850",
+    "zip": "1850",
+    "province_name": "Brabant flamand",
+    "province_code": "VBR",
+    "region": "Flandre",
+    "coordinates": {
+      "lat": 50.9503,
+      "lng": 4.4014
+    },
+    "population": 39200
+  },
+  {
+    "name": "Haacht",
+    "name_nl": "Haacht",
+    "slug": "haacht-3150",
+    "zip": "3150",
+    "province_name": "Brabant flamand",
+    "province_code": "VBR",
+    "region": "Flandre",
+    "coordinates": {
+      "lat": 50.9769,
+      "lng": 4.6387
+    },
+    "population": 14800
+  },
+  {
+    "name": "Hal",
+    "name_nl": "Halle",
+    "slug": "hal-1500",
+    "zip": "1500",
+    "province_name": "Brabant flamand",
+    "province_code": "VBR",
+    "region": "Flandre",
+    "coordinates": {
+      "lat": 50.7361,
+      "lng": 4.2374
+    },
+    "population": 40000
+  },
+  {
+    "name": "Herent",
+    "name_nl": "Herent",
+    "slug": "herent-3020",
+    "zip": "3020",
+    "province_name": "Brabant flamand",
+    "province_code": "VBR",
+    "region": "Flandre",
+    "coordinates": {
+      "lat": 50.9079,
+      "lng": 4.6727
+    },
+    "population": 22000
+  },
+  {
+    "name": "Hoegaarden",
+    "name_nl": "Hoegaarden",
+    "slug": "hoegaarden-3320",
+    "zip": "3320",
+    "province_name": "Brabant flamand",
+    "province_code": "VBR",
+    "region": "Flandre",
+    "coordinates": {
+      "lat": 50.7878,
+      "lng": 4.8811
+    },
+    "population": 7100
+  },
+  {
+    "name": "Hoeilaart",
+    "name_nl": "Hoeilaart",
+    "slug": "hoeilaart-1560",
+    "zip": "1560",
+    "province_name": "Brabant flamand",
+    "province_code": "VBR",
+    "region": "Flandre",
+    "coordinates": {
+      "lat": 50.7675,
+      "lng": 4.4744
+    },
+    "population": 11600
+  },
+  {
+    "name": "Holsbeek",
+    "name_nl": "Holsbeek",
+    "slug": "holsbeek-3220",
+    "zip": "3220",
+    "province_name": "Brabant flamand",
+    "province_code": "VBR",
+    "region": "Flandre",
+    "coordinates": {
+      "lat": 50.9217,
+      "lng": 4.7557
+    },
+    "population": 10200
+  },
+  {
+    "name": "Huldenberg",
+    "name_nl": "Huldenberg",
+    "slug": "huldenberg-3040",
+    "zip": "3040",
+    "province_name": "Brabant flamand",
+    "province_code": "VBR",
+    "region": "Flandre",
+    "coordinates": {
+      "lat": 50.7951,
+      "lng": 4.5829
+    },
+    "population": 9800
+  },
+  {
+    "name": "Kampenhout",
+    "name_nl": "Kampenhout",
+    "slug": "kampenhout-1910",
+    "zip": "1910",
+    "province_name": "Brabant flamand",
+    "province_code": "VBR",
+    "region": "Flandre",
+    "coordinates": {
+      "lat": 51.1696,
+      "lng": 5.1521
+    },
+    "population": 12400
+  },
+  {
+    "name": "Kapelle-op-den-Bos",
+    "name_nl": "Kapelle-op-den-Bos",
+    "slug": "kapelle-op-den-bos-1880",
+    "zip": "1880",
+    "province_name": "Brabant flamand",
+    "province_code": "VBR",
+    "region": "Flandre",
+    "coordinates": {
+      "lat": 51.0132,
+      "lng": 4.36
+    },
+    "population": 9700
+  },
+  {
+    "name": "Keerbergen",
+    "name_nl": "Keerbergen",
+    "slug": "keerbergen-3140",
+    "zip": "3140",
+    "province_name": "Brabant flamand",
+    "province_code": "VBR",
+    "region": "Flandre",
+    "coordinates": {
+      "lat": 51.0049,
+      "lng": 4.6266
+    },
+    "population": 13400
+  },
+  {
+    "name": "Kortenaken",
+    "name_nl": "Kortenaken",
+    "slug": "kortenaken-3470",
+    "zip": "3470",
+    "province_name": "Brabant flamand",
+    "province_code": "VBR",
+    "region": "Flandre",
+    "coordinates": {
+      "lat": 50.9057,
+      "lng": 5.0684
+    },
+    "population": 8500
+  },
+  {
+    "name": "Kortenberg",
+    "name_nl": "Kortenberg",
+    "slug": "kortenberg-3070",
+    "zip": "3070",
+    "province_name": "Brabant flamand",
+    "province_code": "VBR",
+    "region": "Flandre",
+    "coordinates": {
+      "lat": 50.8833,
+      "lng": 4.5365
+    },
+    "population": 20500
+  },
+  {
+    "name": "Kraainem",
+    "name_nl": "Kraainem",
+    "slug": "kraainem-1950",
+    "zip": "1950",
+    "province_name": "Brabant flamand",
+    "province_code": "VBR",
+    "region": "Flandre",
+    "coordinates": {
+      "lat": 50.8606,
+      "lng": 4.4691
+    },
+    "population": 14200
+  },
+  {
+    "name": "Landen",
+    "name_nl": "Landen",
+    "slug": "landen-3400",
+    "zip": "3400",
+    "province_name": "Brabant flamand",
+    "province_code": "VBR",
+    "region": "Flandre",
+    "coordinates": {
+      "lat": 50.7871,
+      "lng": 5.0075
+    },
+    "population": 16200
+  },
+  {
+    "name": "Lennik",
+    "name_nl": "Lennik",
+    "slug": "lennik-1750",
+    "zip": "1750",
+    "province_name": "Brabant flamand",
+    "province_code": "VBR",
+    "region": "Flandre",
+    "coordinates": {
+      "lat": 50.7999,
+      "lng": 4.1888
+    },
+    "population": 9500
+  },
+  {
+    "name": "Leuven",
+    "name_nl": "Leuven",
+    "slug": "leuven-3000",
+    "zip": "3000",
+    "province_name": "Brabant flamand",
+    "province_code": "VBR",
+    "region": "Flandre",
+    "coordinates": {
+      "lat": 50.8813,
+      "lng": 4.693
+    },
+    "population": 102000
+  },
+  {
+    "name": "Liedekerke",
+    "name_nl": "Liedekerke",
+    "slug": "liedekerke-1770",
+    "zip": "1770",
+    "province_name": "Brabant flamand",
+    "province_code": "VBR",
+    "region": "Flandre",
+    "coordinates": {
+      "lat": 50.8711,
+      "lng": 4.0861
+    },
+    "population": 13200
+  },
+  {
+    "name": "Liedekerke",
+    "name_nl": "Tierod",
+    "slug": "liedekerke-3120",
+    "zip": "3120",
+    "province_name": "Brabant flamand",
+    "province_code": "VBR",
+    "region": "Flandre",
+    "coordinates": {
+      "lat": 50.99,
+      "lng": 4.6755
+    },
+    "population": 22000
+  },
+  {
+    "name": "Linkebeek",
+    "name_nl": "Linkebeek",
+    "slug": "linkebeek-1630",
+    "zip": "1630",
+    "province_name": "Brabant flamand",
+    "province_code": "VBR",
+    "region": "Flandre",
+    "coordinates": {
+      "lat": 50.7716,
+      "lng": 4.3346
+    },
+    "population": 5400
+  },
+  {
+    "name": "Linter",
+    "name_nl": "Linter",
+    "slug": "linter-3350",
+    "zip": "3350",
+    "province_name": "Brabant flamand",
+    "province_code": "VBR",
+    "region": "Flandre",
+    "coordinates": {
+      "lat": 50.8449,
+      "lng": 5.0533
+    },
+    "population": 7600
+  },
+  {
+    "name": "Londerzeel",
+    "name_nl": "Londerzeel",
+    "slug": "londerzeel-1840",
+    "zip": "1840",
+    "province_name": "Brabant flamand",
+    "province_code": "VBR",
+    "region": "Flandre",
+    "coordinates": {
+      "lat": 51.0122,
+      "lng": 4.2991
+    },
+    "population": 19000
+  },
+  {
+    "name": "Lubbeek",
+    "name_nl": "Lubbeek",
+    "slug": "lubbeek-3210",
+    "zip": "3210",
+    "province_name": "Brabant flamand",
+    "province_code": "VBR",
+    "region": "Flandre",
+    "coordinates": {
+      "lat": 50.8989,
+      "lng": 4.7757
+    },
+    "population": 15600
+  },
+  {
+    "name": "Machelen",
+    "name_nl": "Machelen",
+    "slug": "machelen-1830",
+    "zip": "1830",
+    "province_name": "Brabant flamand",
+    "province_code": "VBR",
+    "region": "Flandre",
+    "coordinates": {
+      "lat": 50.9124,
+      "lng": 4.4354
+    },
+    "population": 15200
+  },
+  {
+    "name": "Meise",
+    "name_nl": "Meise",
+    "slug": "meise-1860",
+    "zip": "1860",
+    "province_name": "Brabant flamand",
+    "province_code": "VBR",
+    "region": "Flandre",
+    "coordinates": {
+      "lat": 50.9342,
+      "lng": 4.3287
+    },
+    "population": 20200
+  },
+  {
+    "name": "Merchtem",
+    "name_nl": "Merchtem",
+    "slug": "merchtem-1785",
+    "zip": "1785",
+    "province_name": "Brabant flamand",
+    "province_code": "VBR",
+    "region": "Flandre",
+    "coordinates": {
+      "lat": 50.9278,
+      "lng": 4.2659
+    },
+    "population": 16600
+  },
+  {
+    "name": "Opwijk",
+    "name_nl": "Opwijk",
+    "slug": "opwijk-1745",
+    "zip": "1745",
+    "province_name": "Brabant flamand",
+    "province_code": "VBR",
+    "region": "Flandre",
+    "coordinates": {
+      "lat": 50.9429,
+      "lng": 4.1718
+    },
+    "population": 14000
+  },
+  {
+    "name": "Oud-Heverlee",
+    "name_nl": "Oud-Heverlee",
+    "slug": "oud-heverlee-3050",
+    "zip": "3050",
+    "province_name": "Brabant flamand",
+    "province_code": "VBR",
+    "region": "Flandre",
+    "coordinates": {
+      "lat": 50.8218,
+      "lng": 4.6679
+    },
+    "population": 11800
+  },
+  {
+    "name": "Overijse",
+    "name_nl": "Overijse",
+    "slug": "overijse-3090",
+    "zip": "3090",
+    "province_name": "Brabant flamand",
+    "province_code": "VBR",
+    "region": "Flandre",
+    "coordinates": {
+      "lat": 50.7729,
+      "lng": 4.5385
+    },
+    "population": 25800
+  },
+  {
+    "name": "Pepingen",
+    "name_nl": "Pepingen",
+    "slug": "pepingen-1670",
+    "zip": "1670",
+    "province_name": "Brabant flamand",
+    "province_code": "VBR",
+    "region": "Flandre",
+    "coordinates": {
+      "lat": 50.7398,
+      "lng": 4.1368
+    },
+    "population": 4600
+  },
+  {
+    "name": "Rhode-Saint-Genèse",
+    "name_nl": "Sint-Genesius-Rode",
+    "slug": "rhode-saint-genese-1640",
+    "zip": "1640",
+    "province_name": "Brabant flamand",
+    "province_code": "VBR",
+    "region": "Flandre",
+    "coordinates": {
+      "lat": 50.745,
+      "lng": 4.3464
+    },
+    "population": 19200
+  },
+  {
+    "name": "Roosdaal",
+    "name_nl": "Roosdaal",
+    "slug": "roosdaal-1760",
+    "zip": "1760",
+    "province_name": "Brabant flamand",
+    "province_code": "VBR",
+    "region": "Flandre",
+    "coordinates": {
+      "lat": 50.822,
+      "lng": 4.112
+    },
+    "population": 12000
+  },
+  {
+    "name": "Rotselaar",
+    "name_nl": "Rotselaar",
+    "slug": "rotselaar-3110",
+    "zip": "3110",
+    "province_name": "Brabant flamand",
+    "province_code": "VBR",
+    "region": "Flandre",
+    "coordinates": {
+      "lat": 50.9544,
+      "lng": 4.7143
+    },
+    "population": 16400
+  },
+  {
+    "name": "Scherpenheuvel-Zichem",
+    "name_nl": "Scherpenheuvel-Zichem",
+    "slug": "scherpenheuvel-zichem-3270",
+    "zip": "3270",
+    "province_name": "Brabant flamand",
+    "province_code": "VBR",
+    "region": "Flandre",
+    "coordinates": {
+      "lat": 50.9726,
+      "lng": 4.9547
+    },
+    "population": 23400
+  },
+  {
+    "name": "Sint-Pieters-Leeuw",
+    "name_nl": "Sint-Pieters-Leeuw",
+    "slug": "sint-pieters-leeuw-1600",
+    "zip": "1600",
+    "province_name": "Brabant flamand",
+    "province_code": "VBR",
+    "region": "Flandre",
+    "coordinates": {
+      "lat": 50.7805,
+      "lng": 4.1959
+    },
+    "population": 34500
+  },
+  {
+    "name": "Steenokkerzeel",
+    "name_nl": "Steenokkerzeel",
+    "slug": "steenokkerzeel-1820",
+    "zip": "1820",
+    "province_name": "Brabant flamand",
+    "province_code": "VBR",
+    "region": "Flandre",
+    "coordinates": {
+      "lat": 50.9171,
+      "lng": 4.4759
+    },
+    "population": 12600
+  },
+  {
+    "name": "Ternat",
+    "name_nl": "Ternat",
+    "slug": "ternat-1740",
+    "zip": "1740",
+    "province_name": "Brabant flamand",
+    "province_code": "VBR",
+    "region": "Flandre",
+    "coordinates": {
+      "lat": 50.8716,
+      "lng": 4.1834
+    },
+    "population": 16000
+  },
+  {
+    "name": "Tervuren",
+    "name_nl": "Tervuren",
+    "slug": "tervuren-3080",
+    "zip": "3080",
+    "province_name": "Brabant flamand",
+    "province_code": "VBR",
+    "region": "Flandre",
+    "coordinates": {
+      "lat": 50.8111,
+      "lng": 4.5452
+    },
+    "population": 22200
+  },
+  {
+    "name": "Tielt-Winge",
+    "name_nl": "Tielt-Winge",
+    "slug": "tielt-winge-3390",
+    "zip": "3390",
+    "province_name": "Brabant flamand",
+    "province_code": "VBR",
+    "region": "Flandre",
+    "coordinates": {
+      "lat": 50.9341,
+      "lng": 4.8606
+    },
+    "population": 11200
+  },
+  {
+    "name": "Tienen",
+    "name_nl": "Tienen",
+    "slug": "tienen-3300",
+    "zip": "3300",
+    "province_name": "Brabant flamand",
+    "province_code": "VBR",
+    "region": "Flandre",
+    "coordinates": {
+      "lat": 50.7846,
+      "lng": 4.9339
+    },
+    "population": 34800
+  },
+  {
+    "name": "Vilvorde",
+    "name_nl": "Vilvoorde",
+    "slug": "vilvorde-1800",
+    "zip": "1800",
+    "province_name": "Brabant flamand",
+    "province_code": "VBR",
+    "region": "Flandre",
+    "coordinates": {
+      "lat": 50.9272,
+      "lng": 4.4552
+    },
+    "population": 44800
+  },
+  {
+    "name": "Wemmel",
+    "name_nl": "Wemmel",
+    "slug": "wemmel-1780",
+    "zip": "1780",
+    "province_name": "Brabant flamand",
+    "province_code": "VBR",
+    "region": "Flandre",
+    "coordinates": {
+      "lat": 50.9146,
+      "lng": 4.3109
+    },
+    "population": 16800
+  },
+  {
+    "name": "Wezembeek-Oppem",
+    "name_nl": "Wezembeek-Oppem",
+    "slug": "wezembeek-oppem-1970",
+    "zip": "1970",
+    "province_name": "Brabant flamand",
+    "province_code": "VBR",
+    "region": "Flandre",
+    "coordinates": {
+      "lat": 50.8441,
+      "lng": 4.4872
+    },
+    "population": 14500
+  },
+  {
+    "name": "Zaventem",
+    "name_nl": "Zaventem",
+    "slug": "zaventem-1930",
+    "zip": "1930",
+    "province_name": "Brabant flamand",
+    "province_code": "VBR",
+    "region": "Flandre",
+    "coordinates": {
+      "lat": 50.885,
+      "lng": 4.5081
+    },
+    "population": 34000
+  },
+  {
+    "name": "Zemst",
+    "name_nl": "Zemst",
+    "slug": "zemst-1980",
+    "zip": "1980",
+    "province_name": "Brabant flamand",
+    "province_code": "VBR",
+    "region": "Flandre",
+    "coordinates": {
+      "lat": 50.9614,
+      "lng": 4.4557
+    },
+    "population": 23500
+  },
+  {
+    "name": "Zoutleeuw",
+    "name_nl": "Zoutleeuw",
+    "slug": "zoutleeuw-3440",
+    "zip": "3440",
+    "province_name": "Brabant flamand",
+    "province_code": "VBR",
+    "region": "Flandre",
+    "coordinates": {
+      "lat": 50.8653,
+      "lng": 5.0871
+    },
+    "population": 8500
+  },
+  {
+    "name": "Alveringem",
+    "name_nl": "Alveringem",
+    "slug": "alveringem-8690",
+    "zip": "8690",
+    "province_name": "Flandre-Occidentale",
+    "province_code": "WVL",
+    "region": "Flandre",
+    "coordinates": {
+      "lat": 51.0151,
+      "lng": 2.7226
+    },
+    "population": 5000
+  },
+  {
+    "name": "Anzegem",
+    "name_nl": "Anzegem",
+    "slug": "anzegem-8570",
+    "zip": "8570",
+    "province_name": "Flandre-Occidentale",
+    "province_code": "WVL",
+    "region": "Flandre",
+    "coordinates": {
+      "lat": 50.844,
+      "lng": 3.4637
+    },
+    "population": 15100
+  },
+  {
+    "name": "Ardooie",
+    "name_nl": "Ardooie",
+    "slug": "ardooie-8850",
+    "zip": "8850",
+    "province_name": "Flandre-Occidentale",
+    "province_code": "WVL",
+    "region": "Flandre",
+    "coordinates": {
+      "lat": 50.9708,
+      "lng": 3.2046
+    },
+    "population": 9500
+  },
+  {
+    "name": "Avelgem",
+    "name_nl": "Avelgem",
+    "slug": "avelgem-8580",
+    "zip": "8580",
+    "province_name": "Flandre-Occidentale",
+    "province_code": "WVL",
+    "region": "Flandre",
+    "coordinates": {
+      "lat": 50.7755,
+      "lng": 3.4469
+    },
+    "population": 10000
+  },
+  {
+    "name": "Beernem",
+    "name_nl": "Beernem",
+    "slug": "beernem-8730",
+    "zip": "8730",
+    "province_name": "Flandre-Occidentale",
+    "province_code": "WVL",
+    "region": "Flandre",
+    "coordinates": {
+      "lat": 51.1277,
+      "lng": 3.3145
+    },
+    "population": 15700
+  },
+  {
+    "name": "Blankenberge",
+    "name_nl": "Blankenberge",
+    "slug": "blankenberge-8370",
+    "zip": "8370",
+    "province_name": "Flandre-Occidentale",
+    "province_code": "WVL",
+    "region": "Flandre",
+    "coordinates": {
+      "lat": 51.3165,
+      "lng": 3.1298
+    },
+    "population": 20200
+  },
+  {
+    "name": "Bredene",
+    "name_nl": "Bredene",
+    "slug": "bredene-8450",
+    "zip": "8450",
+    "province_name": "Flandre-Occidentale",
+    "province_code": "WVL",
+    "region": "Flandre",
+    "coordinates": {
+      "lat": 51.2389,
+      "lng": 2.9726
+    },
+    "population": 17500
+  },
+  {
+    "name": "Bruges",
+    "name_nl": "Brugge",
+    "slug": "bruges-8000",
+    "zip": "8000",
+    "province_name": "Flandre-Occidentale",
+    "province_code": "WVL",
+    "region": "Flandre",
+    "coordinates": {
+      "lat": 51.2147,
+      "lng": 3.2074
+    },
+    "population": 119000
+  },
+  {
+    "name": "Courtrai",
+    "name_nl": "Kortrijk",
+    "slug": "courtrai-8500",
+    "zip": "8500",
+    "province_name": "Flandre-Occidentale",
+    "province_code": "WVL",
+    "region": "Flandre",
+    "coordinates": {
+      "lat": 50.8179,
+      "lng": 3.2784
+    },
+    "population": 78000
+  },
+  {
+    "name": "Damme",
+    "name_nl": "Damme",
+    "slug": "damme-8340",
+    "zip": "8340",
+    "province_name": "Flandre-Occidentale",
+    "province_code": "WVL",
+    "region": "Flandre",
+    "coordinates": {
+      "lat": 51.2553,
+      "lng": 3.2921
+    },
+    "population": 11400
+  },
+  {
+    "name": "De Haan",
+    "name_nl": "De Haan",
+    "slug": "de-haan-8420",
+    "zip": "8420",
+    "province_name": "Flandre-Occidentale",
+    "province_code": "WVL",
+    "region": "Flandre",
+    "coordinates": {
+      "lat": 51.2415,
+      "lng": 3.0049
+    },
+    "population": 13100
+  },
+  {
+    "name": "Deerlijk",
+    "name_nl": "Deerlijk",
+    "slug": "deerlijk-8540",
+    "zip": "8540",
+    "province_name": "Flandre-Occidentale",
+    "province_code": "WVL",
+    "region": "Flandre",
+    "coordinates": {
+      "lat": 50.8388,
+      "lng": 3.3623
+    },
+    "population": 11400
+  },
+  {
+    "name": "Dentergem",
+    "name_nl": "Dentergem",
+    "slug": "dentergem-8720",
+    "zip": "8720",
+    "province_name": "Flandre-Occidentale",
+    "province_code": "WVL",
+    "region": "Flandre",
+    "coordinates": {
+      "lat": 50.9661,
+      "lng": 3.4023
+    },
+    "population": 8500
+  },
+  {
+    "name": "Dixmude",
+    "name_nl": "Diksmuide",
+    "slug": "dixmude-8600",
+    "zip": "8600",
+    "province_name": "Flandre-Occidentale",
+    "province_code": "WVL",
+    "region": "Flandre",
+    "coordinates": {
+      "lat": 51.0537,
+      "lng": 2.8732
+    },
+    "population": 17000
+  },
+  {
+    "name": "Espierres-Helchin",
+    "name_nl": "Spiere-Helkijn",
+    "slug": "espierres-helchin-8587",
+    "zip": "8587",
+    "province_name": "Flandre-Occidentale",
+    "province_code": "WVL",
+    "region": "Flandre",
+    "coordinates": {
+      "lat": 50.7257,
+      "lng": 3.3465
+    },
+    "population": 2200
+  },
+  {
+    "name": "Furnes",
+    "name_nl": "Veurne",
+    "slug": "furnes-8630",
+    "zip": "8630",
+    "province_name": "Flandre-Occidentale",
+    "province_code": "WVL",
+    "region": "Flandre",
+    "coordinates": {
+      "lat": 51.0631,
+      "lng": 2.7458
+    },
+    "population": 12200
+  },
+  {
+    "name": "Harelbeke",
+    "name_nl": "Harelbeke",
+    "slug": "harelbeke-8530",
+    "zip": "8530",
+    "province_name": "Flandre-Occidentale",
+    "province_code": "WVL",
+    "region": "Flandre",
+    "coordinates": {
+      "lat": 50.8293,
+      "lng": 3.3426
+    },
+    "population": 29000
+  },
+  {
+    "name": "Heuvelland",
+    "name_nl": "Heuvelland",
+    "slug": "heuvelland-8950",
+    "zip": "8950",
+    "province_name": "Flandre-Occidentale",
+    "province_code": "WVL",
+    "region": "Flandre",
+    "coordinates": {
+      "lat": 50.7676,
+      "lng": 2.8457
+    },
+    "population": 7800
+  },
+  {
+    "name": "Hooglede",
+    "name_nl": "Hooglede",
+    "slug": "hooglede-8830",
+    "zip": "8830",
+    "province_name": "Flandre-Occidentale",
+    "province_code": "WVL",
+    "region": "Flandre",
+    "coordinates": {
+      "lat": 50.9976,
+      "lng": 3.1103
+    },
+    "population": 10500
+  },
+  {
+    "name": "Ichtegem",
+    "name_nl": "Ichtegem",
+    "slug": "ichtegem-8480",
+    "zip": "8480",
+    "province_name": "Flandre-Occidentale",
+    "province_code": "WVL",
+    "region": "Flandre",
+    "coordinates": {
+      "lat": 51.1489,
+      "lng": 3.0582
+    },
+    "population": 14200
+  },
+  {
+    "name": "Ingelmunster",
+    "name_nl": "Ingelmunster",
+    "slug": "ingelmunster-8770",
+    "zip": "8770",
+    "province_name": "Flandre-Occidentale",
+    "province_code": "WVL",
+    "region": "Flandre",
+    "coordinates": {
+      "lat": 50.922,
+      "lng": 3.2617
+    },
+    "population": 11700
+  },
+  {
+    "name": "Izegem",
+    "name_nl": "Izegem",
+    "slug": "izegem-8870",
+    "zip": "8870",
+    "province_name": "Flandre-Occidentale",
+    "province_code": "WVL",
+    "region": "Flandre",
+    "coordinates": {
+      "lat": 50.9337,
+      "lng": 3.2213
+    },
+    "population": 28000
+  },
+  {
+    "name": "Jabbeke",
+    "name_nl": "Jabbeke",
+    "slug": "jabbeke-8490",
+    "zip": "8490",
+    "province_name": "Flandre-Occidentale",
+    "province_code": "WVL",
+    "region": "Flandre",
+    "coordinates": {
+      "lat": 51.1846,
+      "lng": 3.0903
+    },
+    "population": 14200
+  },
+  {
+    "name": "Knokke-Heist",
+    "name_nl": "Knokke-Heist",
+    "slug": "knokke-heist-8300",
+    "zip": "8300",
+    "province_name": "Flandre-Occidentale",
+    "province_code": "WVL",
+    "region": "Flandre",
+    "coordinates": {
+      "lat": 51.3494,
+      "lng": 3.3234
+    },
+    "population": 34000
+  },
+  {
+    "name": "Koekelare",
+    "name_nl": "Koekelare",
+    "slug": "koekelare-8680",
+    "zip": "8680",
+    "province_name": "Flandre-Occidentale",
+    "province_code": "WVL",
+    "region": "Flandre",
+    "coordinates": {
+      "lat": 51.0562,
+      "lng": 2.9633
+    },
+    "population": 8800
+  },
+  {
+    "name": "Koksijde",
+    "name_nl": "Koksijde",
+    "slug": "koksijde-8670",
+    "zip": "8670",
+    "province_name": "Flandre-Occidentale",
+    "province_code": "WVL",
+    "region": "Flandre",
+    "coordinates": {
+      "lat": 51.1091,
+      "lng": 2.6353
+    },
+    "population": 22700
+  },
+  {
+    "name": "Kuurne",
+    "name_nl": "Kuurne",
+    "slug": "kuurne-8520",
+    "zip": "8520",
+    "province_name": "Flandre-Occidentale",
+    "province_code": "WVL",
+    "region": "Flandre",
+    "coordinates": {
+      "lat": 50.8601,
+      "lng": 3.2736
+    },
+    "population": 13200
+  },
+  {
+    "name": "La Panne",
+    "name_nl": "De Panne",
+    "slug": "la-panne-8660",
+    "zip": "8660",
+    "province_name": "Flandre-Occidentale",
+    "province_code": "WVL",
+    "region": "Flandre",
+    "coordinates": {
+      "lat": 51.0693,
+      "lng": 2.5896
+    },
+    "population": 11200
+  },
+  {
+    "name": "Langemark-Poelkapelle",
+    "name_nl": "Langemark-Poelkapelle",
+    "slug": "langemark-poelkapelle-8920",
+    "zip": "8920",
+    "province_name": "Flandre-Occidentale",
+    "province_code": "WVL",
+    "region": "Flandre",
+    "coordinates": {
+      "lat": 50.925,
+      "lng": 2.8631
+    },
+    "population": 8100
+  },
+  {
+    "name": "Ledegem",
+    "name_nl": "Ledegem",
+    "slug": "ledegem-8880",
+    "zip": "8880",
+    "province_name": "Flandre-Occidentale",
+    "province_code": "WVL",
+    "region": "Flandre",
+    "coordinates": {
+      "lat": 50.869,
+      "lng": 3.1177
+    },
+    "population": 9800
+  },
+  {
+    "name": "Lendelede",
+    "name_nl": "Lendelede",
+    "slug": "lendelede-8860",
+    "zip": "8860",
+    "province_name": "Flandre-Occidentale",
+    "province_code": "WVL",
+    "region": "Flandre",
+    "coordinates": {
+      "lat": 50.8851,
+      "lng": 3.232
+    },
+    "population": 5900
+  },
+  {
+    "name": "Lichtervelde",
+    "name_nl": "Lichtervelde",
+    "slug": "lichtervelde-8810",
+    "zip": "8810",
+    "province_name": "Flandre-Occidentale",
+    "province_code": "WVL",
+    "region": "Flandre",
+    "coordinates": {
+      "lat": 51.0303,
+      "lng": 3.1423
+    },
+    "population": 9100
+  },
+  {
+    "name": "Lo-Reninge",
+    "name_nl": "Lo-Reninge",
+    "slug": "lo-reninge-8647",
+    "zip": "8647",
+    "province_name": "Flandre-Occidentale",
+    "province_code": "WVL",
+    "region": "Flandre",
+    "coordinates": {
+      "lat": 50.9931,
+      "lng": 2.7608
+    },
+    "population": 3400
+  },
+  {
+    "name": "Menin",
+    "name_nl": "Menen",
+    "slug": "menin-8930",
+    "zip": "8930",
+    "province_name": "Flandre-Occidentale",
+    "province_code": "WVL",
+    "region": "Flandre",
+    "coordinates": {
+      "lat": 50.7888,
+      "lng": 3.1939
+    },
+    "population": 33000
+  },
+  {
+    "name": "Messines",
+    "name_nl": "Mesen",
+    "slug": "messines-8957",
+    "zip": "8957",
+    "province_name": "Flandre-Occidentale",
+    "province_code": "WVL",
+    "region": "Flandre",
+    "coordinates": {
+      "lat": 50.7597,
+      "lng": 2.9001
+    },
+    "population": 1000
+  },
+  {
+    "name": "Middelkerke",
+    "name_nl": "Middelkerke",
+    "slug": "middelkerke-8430",
+    "zip": "8430",
+    "province_name": "Flandre-Occidentale",
+    "province_code": "WVL",
+    "region": "Flandre",
+    "coordinates": {
+      "lat": 51.1833,
+      "lng": 2.8063
+    },
+    "population": 20000
+  },
+  {
+    "name": "Moorslede",
+    "name_nl": "Moorslede",
+    "slug": "moorslede-8890",
+    "zip": "8890",
+    "province_name": "Flandre-Occidentale",
+    "province_code": "WVL",
+    "region": "Flandre",
+    "coordinates": {
+      "lat": 50.8469,
+      "lng": 3.1057
+    },
+    "population": 11500
+  },
+  {
+    "name": "Nieuport",
+    "name_nl": "Nieuwpoort",
+    "slug": "nieuport-8620",
+    "zip": "8620",
+    "province_name": "Flandre-Occidentale",
+    "province_code": "WVL",
+    "region": "Flandre",
+    "coordinates": {
+      "lat": 51.1442,
+      "lng": 2.7284
+    },
+    "population": 12000
+  },
+  {
+    "name": "Oostkamp",
+    "name_nl": "Oostkamp",
+    "slug": "oostkamp-8020",
+    "zip": "8020",
+    "province_name": "Flandre-Occidentale",
+    "province_code": "WVL",
+    "region": "Flandre",
+    "coordinates": {
+      "lat": 51.11,
+      "lng": 3.2612
+    },
+    "population": 24000
+  },
+  {
+    "name": "Oostrozebeke",
+    "name_nl": "Oostrozebeke",
+    "slug": "oostrozebeke-8780",
+    "zip": "8780",
+    "province_name": "Flandre-Occidentale",
+    "province_code": "WVL",
+    "region": "Flandre",
+    "coordinates": {
+      "lat": 50.9343,
+      "lng": 3.3468
+    },
+    "population": 7800
+  },
+  {
+    "name": "Ostende",
+    "name_nl": "Oostende",
+    "slug": "ostende-8400",
+    "zip": "8400",
+    "province_name": "Flandre-Occidentale",
+    "province_code": "WVL",
+    "region": "Flandre",
+    "coordinates": {
+      "lat": 51.2303,
+      "lng": 2.9203
+    },
+    "population": 72600
+  },
+  {
+    "name": "Oudenburg",
+    "name_nl": "Oudenburg",
+    "slug": "oudenburg-8460",
+    "zip": "8460",
+    "province_name": "Flandre-Occidentale",
+    "province_code": "WVL",
+    "region": "Flandre",
+    "coordinates": {
+      "lat": 51.1977,
+      "lng": 3.0385
+    },
+    "population": 9400
+  },
+  {
+    "name": "Pittem",
+    "name_nl": "Pittem",
+    "slug": "pittem-8740",
+    "zip": "8740",
+    "province_name": "Flandre-Occidentale",
+    "province_code": "WVL",
+    "region": "Flandre",
+    "coordinates": {
+      "lat": 51.021,
+      "lng": 3.2541
+    },
+    "population": 7200
+  },
+  {
+    "name": "Poperinge",
+    "name_nl": "Poperinge",
+    "slug": "poperinge-8970",
+    "zip": "8970",
+    "province_name": "Flandre-Occidentale",
+    "province_code": "WVL",
+    "region": "Flandre",
+    "coordinates": {
+      "lat": 50.8436,
+      "lng": 2.7223
+    },
+    "population": 20000
+  },
+  {
+    "name": "Roulers",
+    "name_nl": "Roeselare",
+    "slug": "roulers-8800",
+    "zip": "8800",
+    "province_name": "Flandre-Occidentale",
+    "province_code": "WVL",
+    "region": "Flandre",
+    "coordinates": {
+      "lat": 50.9687,
+      "lng": 3.1442
+    },
+    "population": 63000
+  },
+  {
+    "name": "Staden",
+    "name_nl": "Staden",
+    "slug": "staden-8840",
+    "zip": "8840",
+    "province_name": "Flandre-Occidentale",
+    "province_code": "WVL",
+    "region": "Flandre",
+    "coordinates": {
+      "lat": 50.9416,
+      "lng": 3.0642
+    },
+    "population": 11600
+  },
+  {
+    "name": "Tielt",
+    "name_nl": "Tielt",
+    "slug": "tielt-8700",
+    "zip": "8700",
+    "province_name": "Flandre-Occidentale",
+    "province_code": "WVL",
+    "region": "Flandre",
+    "coordinates": {
+      "lat": 50.9972,
+      "lng": 3.414
+    },
+    "population": 20800
+  },
+  {
+    "name": "Torhout",
+    "name_nl": "Torhout",
+    "slug": "torhout-8820",
+    "zip": "8820",
+    "province_name": "Flandre-Occidentale",
+    "province_code": "WVL",
+    "region": "Flandre",
+    "coordinates": {
+      "lat": 51.0586,
+      "lng": 3.0913
+    },
+    "population": 21000
+  },
+  {
+    "name": "Vleteren",
+    "name_nl": "Vleteren",
+    "slug": "vleteren-8640",
+    "zip": "8640",
+    "province_name": "Flandre-Occidentale",
+    "province_code": "WVL",
+    "region": "Flandre",
+    "coordinates": {
+      "lat": 50.9231,
+      "lng": 2.7492
+    },
+    "population": 3700
+  },
+  {
+    "name": "Waregem",
+    "name_nl": "Waregem",
+    "slug": "waregem-8790",
+    "zip": "8790",
+    "province_name": "Flandre-Occidentale",
+    "province_code": "WVL",
+    "region": "Flandre",
+    "coordinates": {
+      "lat": 50.8762,
+      "lng": 3.4257
+    },
+    "population": 38000
+  },
+  {
+    "name": "Wervik",
+    "name_nl": "Wervik",
+    "slug": "wervik-8940",
+    "zip": "8940",
+    "province_name": "Flandre-Occidentale",
+    "province_code": "WVL",
+    "region": "Flandre",
+    "coordinates": {
+      "lat": 50.8269,
+      "lng": 3.0689
+    },
+    "population": 18600
+  },
+  {
+    "name": "Wevelgem",
+    "name_nl": "Wevelgem",
+    "slug": "wevelgem-8560",
+    "zip": "8560",
+    "province_name": "Flandre-Occidentale",
+    "province_code": "WVL",
+    "region": "Flandre",
+    "coordinates": {
+      "lat": 50.8449,
+      "lng": 3.2026
+    },
+    "population": 32500
+  },
+  {
+    "name": "Wielsbeke",
+    "name_nl": "Wielsbeke",
+    "slug": "wielsbeke-8710",
+    "zip": "8710",
+    "province_name": "Flandre-Occidentale",
+    "province_code": "WVL",
+    "region": "Flandre",
+    "coordinates": {
+      "lat": 50.895,
+      "lng": 3.3305
+    },
+    "population": 9800
+  },
+  {
+    "name": "Wingene",
+    "name_nl": "Wingene",
+    "slug": "wingene-8750",
+    "zip": "8750",
+    "province_name": "Flandre-Occidentale",
+    "province_code": "WVL",
+    "region": "Flandre",
+    "coordinates": {
+      "lat": 51.0681,
+      "lng": 3.2848
+    },
+    "population": 14500
+  },
+  {
+    "name": "Ypres",
+    "name_nl": "Ieper",
+    "slug": "ypres-8900",
+    "zip": "8900",
+    "province_name": "Flandre-Occidentale",
+    "province_code": "WVL",
+    "region": "Flandre",
+    "coordinates": {
+      "lat": 50.8689,
+      "lng": 2.8475
+    },
+    "population": 35200
+  },
+  {
+    "name": "Zedelgem",
+    "name_nl": "Zedelgem",
+    "slug": "zedelgem-8210",
+    "zip": "8210",
+    "province_name": "Flandre-Occidentale",
+    "province_code": "WVL",
+    "region": "Flandre",
+    "coordinates": {
+      "lat": 51.1557,
+      "lng": 3.1956
+    },
+    "population": 23000
+  },
+  {
+    "name": "Zuienkerke",
+    "name_nl": "Zuienkerke",
+    "slug": "zuienkerke-8377",
+    "zip": "8377",
+    "province_name": "Flandre-Occidentale",
+    "province_code": "WVL",
+    "region": "Flandre",
+    "coordinates": {
+      "lat": 51.2388,
+      "lng": 3.1072
+    },
+    "population": 2800
+  },
+  {
+    "name": "Zwevegem",
+    "name_nl": "Zwevegem",
+    "slug": "zwevegem-8550",
+    "zip": "8550",
+    "province_name": "Flandre-Occidentale",
+    "province_code": "WVL",
+    "region": "Flandre",
+    "coordinates": {
+      "lat": 50.8041,
+      "lng": 3.3419
+    },
+    "population": 25000
+  },
+  {
+    "name": "Aalter",
+    "name_nl": "Aalter",
+    "slug": "aalter-9880",
+    "zip": "9880",
+    "province_name": "Flandre-Orientale",
+    "province_code": "OVL",
+    "region": "Flandre",
+    "coordinates": {
+      "lat": 51.0882,
+      "lng": 3.4177
+    },
+    "population": 21200
+  },
+  {
+    "name": "Alost",
+    "name_nl": "Aalst",
+    "slug": "alost-9300",
+    "zip": "9300",
+    "province_name": "Flandre-Orientale",
+    "province_code": "OVL",
+    "region": "Flandre",
+    "coordinates": {
+      "lat": 50.943,
+      "lng": 4.0396
+    },
+    "population": 87000
+  },
+  {
+    "name": "Assenede",
+    "name_nl": "Assenede",
+    "slug": "assenede-9960",
+    "zip": "9960",
+    "province_name": "Flandre-Orientale",
+    "province_code": "OVL",
+    "region": "Flandre",
+    "coordinates": {
+      "lat": 51.23,
+      "lng": 3.7568
+    },
+    "population": 14600
+  },
+  {
+    "name": "Audenarde",
+    "name_nl": "Oudenaarde",
+    "slug": "audenarde-9700",
+    "zip": "9700",
+    "province_name": "Flandre-Orientale",
+    "province_code": "OVL",
+    "region": "Flandre",
+    "coordinates": {
+      "lat": 50.8514,
+      "lng": 3.5956
+    },
+    "population": 32000
+  },
+  {
+    "name": "Berlare",
+    "name_nl": "Berlare",
+    "slug": "berlare-9290",
+    "zip": "9290",
+    "province_name": "Flandre-Orientale",
+    "province_code": "OVL",
+    "region": "Flandre",
+    "coordinates": {
+      "lat": 51.0302,
+      "lng": 4.0113
+    },
+    "population": 15200
+  },
+  {
+    "name": "Beveren",
+    "name_nl": "Beveren",
+    "slug": "beveren-9120",
+    "zip": "9120",
+    "province_name": "Flandre-Orientale",
+    "province_code": "OVL",
+    "region": "Flandre",
+    "coordinates": {
+      "lat": 51.1806,
+      "lng": 4.2384
+    },
+    "population": 49300
+  },
+  {
+    "name": "Brakel",
+    "name_nl": "Brakel",
+    "slug": "brakel-9660",
+    "zip": "9660",
+    "province_name": "Flandre-Orientale",
+    "province_code": "OVL",
+    "region": "Flandre",
+    "coordinates": {
+      "lat": 50.798,
+      "lng": 3.7628
+    },
+    "population": 15200
+  },
+  {
+    "name": "Buggenhout",
+    "name_nl": "Buggenhout",
+    "slug": "buggenhout-9255",
+    "zip": "9255",
+    "province_name": "Flandre-Orientale",
+    "province_code": "OVL",
+    "region": "Flandre",
+    "coordinates": {
+      "lat": 51.0113,
+      "lng": 4.1928
+    },
+    "population": 14800
+  },
+  {
+    "name": "De Pinte",
+    "name_nl": "De Pinte",
+    "slug": "de-pinte-9840",
+    "zip": "9840",
+    "province_name": "Flandre-Orientale",
+    "province_code": "OVL",
+    "region": "Flandre",
+    "coordinates": {
+      "lat": 50.9924,
+      "lng": 3.6496
+    },
+    "population": 10800
+  },
+  {
+    "name": "Deinze",
+    "name_nl": "Deinze",
+    "slug": "deinze-9800",
+    "zip": "9800",
+    "province_name": "Flandre-Orientale",
+    "province_code": "OVL",
+    "region": "Flandre",
+    "coordinates": {
+      "lat": 50.9846,
+      "lng": 3.5628
+    },
+    "population": 36000
+  },
+  {
+    "name": "Denderleeuw",
+    "name_nl": "Denderleeuw",
+    "slug": "denderleeuw-9470",
+    "zip": "9470",
+    "province_name": "Flandre-Orientale",
+    "province_code": "OVL",
+    "region": "Flandre",
+    "coordinates": {
+      "lat": 50.8844,
+      "lng": 4.0665
+    },
+    "population": 20400
+  },
+  {
+    "name": "Destelbergen",
+    "name_nl": "Destelbergen",
+    "slug": "destelbergen-9070",
+    "zip": "9070",
+    "province_name": "Flandre-Orientale",
+    "province_code": "OVL",
+    "region": "Flandre",
+    "coordinates": {
+      "lat": 51.0556,
+      "lng": 3.7979
+    },
+    "population": 18400
+  },
+  {
+    "name": "Eeklo",
+    "name_nl": "Eeklo",
+    "slug": "eeklo-9900",
+    "zip": "9900",
+    "province_name": "Flandre-Orientale",
+    "province_code": "OVL",
+    "region": "Flandre",
+    "coordinates": {
+      "lat": 51.1845,
+      "lng": 3.5666
+    },
+    "population": 21000
+  },
+  {
+    "name": "Erpe-Mere",
+    "name_nl": "Erpe-Mere",
+    "slug": "erpe-mere-9420",
+    "zip": "9420",
+    "province_name": "Flandre-Orientale",
+    "province_code": "OVL",
+    "region": "Flandre",
+    "coordinates": {
+      "lat": 50.8894,
+      "lng": 3.9367
+    },
+    "population": 20800
+  },
+  {
+    "name": "Evergem",
+    "name_nl": "Evergem",
+    "slug": "evergem-9940",
+    "zip": "9940",
+    "province_name": "Flandre-Orientale",
+    "province_code": "OVL",
+    "region": "Flandre",
+    "coordinates": {
+      "lat": 51.1794,
+      "lng": 3.7472
+    },
+    "population": 36300
+  },
+  {
+    "name": "Gand",
+    "name_nl": "Gent",
+    "slug": "gand-9000",
+    "zip": "9000",
+    "province_name": "Flandre-Orientale",
+    "province_code": "OVL",
+    "region": "Flandre",
+    "coordinates": {
+      "lat": 51.0397,
+      "lng": 3.7142
+    },
+    "population": 265000
+  },
+  {
+    "name": "Gavere",
+    "name_nl": "Gavere",
+    "slug": "gavere-9890",
+    "zip": "9890",
+    "province_name": "Flandre-Orientale",
+    "province_code": "OVL",
+    "region": "Flandre",
+    "coordinates": {
+      "lat": 50.931,
+      "lng": 3.7219
+    },
+    "population": 12700
+  },
+  {
+    "name": "Grammont",
+    "name_nl": "Geraardsbergen",
+    "slug": "grammont-9500",
+    "zip": "9500",
+    "province_name": "Flandre-Orientale",
+    "province_code": "OVL",
+    "region": "Flandre",
+    "coordinates": {
+      "lat": 50.7689,
+      "lng": 3.8798
+    },
+    "population": 33800
+  },
+  {
+    "name": "Haaltert",
+    "name_nl": "Haaltert",
+    "slug": "haaltert-9450",
+    "zip": "9450",
+    "province_name": "Flandre-Orientale",
+    "province_code": "OVL",
+    "region": "Flandre",
+    "coordinates": {
+      "lat": 50.8781,
+      "lng": 4.0059
+    },
+    "population": 18600
+  },
+  {
+    "name": "Hamme",
+    "name_nl": "Hamme",
+    "slug": "hamme-9220",
+    "zip": "9220",
+    "province_name": "Flandre-Orientale",
+    "province_code": "OVL",
+    "region": "Flandre",
+    "coordinates": {
+      "lat": 51.0882,
+      "lng": 4.1203
+    },
+    "population": 24600
+  },
+  {
+    "name": "Herzele",
+    "name_nl": "Herzele",
+    "slug": "herzele-9550",
+    "zip": "9550",
+    "province_name": "Flandre-Orientale",
+    "province_code": "OVL",
+    "region": "Flandre",
+    "coordinates": {
+      "lat": 50.8883,
+      "lng": 3.8874
+    },
+    "population": 18400
+  },
+  {
+    "name": "Horebeke",
+    "name_nl": "Horebeke",
+    "slug": "horebeke-9667",
+    "zip": "9667",
+    "province_name": "Flandre-Orientale",
+    "province_code": "OVL",
+    "region": "Flandre",
+    "coordinates": {
+      "lat": 50.8349,
+      "lng": 3.692
+    },
+    "population": 2100
+  },
+  {
+    "name": "Kaprijke",
+    "name_nl": "Kaprijke",
+    "slug": "kaprijke-9970",
+    "zip": "9970",
+    "province_name": "Flandre-Orientale",
+    "province_code": "OVL",
+    "region": "Flandre",
+    "coordinates": {
+      "lat": 51.229,
+      "lng": 3.6219
+    },
+    "population": 6600
+  },
+  {
+    "name": "Kluisbergen",
+    "name_nl": "Kluisbergen",
+    "slug": "kluisbergen-9690",
+    "zip": "9690",
+    "province_name": "Flandre-Orientale",
+    "province_code": "OVL",
+    "region": "Flandre",
+    "coordinates": {
+      "lat": 50.7904,
+      "lng": 3.5083
+    },
+    "population": 6600
+  },
+  {
+    "name": "Kruibeke",
+    "name_nl": "Kruibeke",
+    "slug": "kruibeke-9150",
+    "zip": "9150",
+    "province_name": "Flandre-Orientale",
+    "province_code": "OVL",
+    "region": "Flandre",
+    "coordinates": {
+      "lat": 51.1469,
+      "lng": 4.2874
+    },
+    "population": 16400
+  },
+  {
+    "name": "Laarne",
+    "name_nl": "Laarne",
+    "slug": "laarne-9270",
+    "zip": "9270",
+    "province_name": "Flandre-Orientale",
+    "province_code": "OVL",
+    "region": "Flandre",
+    "coordinates": {
+      "lat": 51.037,
+      "lng": 3.9186
+    },
+    "population": 12800
+  },
+  {
+    "name": "Lebbeke",
+    "name_nl": "Lebbeke",
+    "slug": "lebbeke-9280",
+    "zip": "9280",
+    "province_name": "Flandre-Orientale",
+    "province_code": "OVL",
+    "region": "Flandre",
+    "coordinates": {
+      "lat": 51.0011,
+      "lng": 4.0954
+    },
+    "population": 19200
+  },
+  {
+    "name": "Lede",
+    "name_nl": "Lede",
+    "slug": "lede-9340",
+    "zip": "9340",
+    "province_name": "Flandre-Orientale",
+    "province_code": "OVL",
+    "region": "Flandre",
+    "coordinates": {
+      "lat": 50.9605,
+      "lng": 3.9522
+    },
+    "population": 18400
+  },
+  {
+    "name": "Lierde",
+    "name_nl": "Lierde",
+    "slug": "lierde-9570",
+    "zip": "9570",
+    "province_name": "Flandre-Orientale",
+    "province_code": "OVL",
+    "region": "Flandre",
+    "coordinates": {
+      "lat": 50.7864,
+      "lng": 3.8409
+    },
+    "population": 6400
+  },
+  {
+    "name": "Lievegem",
+    "name_nl": "Lievegem",
+    "slug": "lievegem-9920",
+    "zip": "9920",
+    "province_name": "Flandre-Orientale",
+    "province_code": "OVL",
+    "region": "Flandre",
+    "coordinates": {
+      "lat": 51.0957,
+      "lng": 3.6076
+    },
+    "population": 26500
+  },
+  {
+    "name": "Lochristi",
+    "name_nl": "Lochristi",
+    "slug": "lochristi-9080",
+    "zip": "9080",
+    "province_name": "Flandre-Orientale",
+    "province_code": "OVL",
+    "region": "Flandre",
+    "coordinates": {
+      "lat": 51.0802,
+      "lng": 3.8793
+    },
+    "population": 22500
+  },
+  {
+    "name": "Lokeren",
+    "name_nl": "Lokeren",
+    "slug": "lokeren-9160",
+    "zip": "9160",
+    "province_name": "Flandre-Orientale",
+    "province_code": "OVL",
+    "region": "Flandre",
+    "coordinates": {
+      "lat": 51.128,
+      "lng": 3.9809
+    },
+    "population": 42000
+  },
+  {
+    "name": "Maarkedal",
+    "name_nl": "Maarkedal",
+    "slug": "maarkedal-9680",
+    "zip": "9680",
+    "province_name": "Flandre-Orientale",
+    "province_code": "OVL",
+    "region": "Flandre",
+    "coordinates": {
+      "lat": 50.8129,
+      "lng": 3.626
+    },
+    "population": 6500
+  },
+  {
+    "name": "Maldegem",
+    "name_nl": "Maldegem",
+    "slug": "maldegem-9990",
+    "zip": "9990",
+    "province_name": "Flandre-Orientale",
+    "province_code": "OVL",
+    "region": "Flandre",
+    "coordinates": {
+      "lat": 51.2263,
+      "lng": 3.4155
+    },
+    "population": 24000
+  },
+  {
+    "name": "Melle",
+    "name_nl": "Melle",
+    "slug": "melle-9090",
+    "zip": "9090",
+    "province_name": "Flandre-Orientale",
+    "province_code": "OVL",
+    "region": "Flandre",
+    "coordinates": {
+      "lat": 50.9843,
+      "lng": 3.7976
+    },
+    "population": 11300
+  },
+  {
+    "name": "Merelbeke",
+    "name_nl": "Merelbeke",
+    "slug": "merelbeke-9820",
+    "zip": "9820",
+    "province_name": "Flandre-Orientale",
+    "province_code": "OVL",
+    "region": "Flandre",
+    "coordinates": {
+      "lat": 50.9635,
+      "lng": 3.7553
+    },
+    "population": 24800
+  },
+  {
+    "name": "Moerbeke",
+    "name_nl": "Moerbeke",
+    "slug": "moerbeke-9180",
+    "zip": "9180",
+    "province_name": "Flandre-Orientale",
+    "province_code": "OVL",
+    "region": "Flandre",
+    "coordinates": {
+      "lat": 51.1743,
+      "lng": 3.9446
+    },
+    "population": 6200
+  },
+  {
+    "name": "Nazareth",
+    "name_nl": "Nazareth",
+    "slug": "nazareth-9810",
+    "zip": "9810",
+    "province_name": "Flandre-Orientale",
+    "province_code": "OVL",
+    "region": "Flandre",
+    "coordinates": {
+      "lat": 50.9569,
+      "lng": 3.6418
+    },
+    "population": 11800
+  },
+  {
+    "name": "Ninove",
+    "name_nl": "Ninove",
+    "slug": "ninove-9400",
+    "zip": "9400",
+    "province_name": "Flandre-Orientale",
+    "province_code": "OVL",
+    "region": "Flandre",
+    "coordinates": {
+      "lat": 50.8191,
+      "lng": 3.9673
+    },
+    "population": 40000
+  },
+  {
+    "name": "Oosterzele",
+    "name_nl": "Oosterzele",
+    "slug": "oosterzele-9860",
+    "zip": "9860",
+    "province_name": "Flandre-Orientale",
+    "province_code": "OVL",
+    "region": "Flandre",
+    "coordinates": {
+      "lat": 50.9252,
+      "lng": 3.7896
+    },
+    "population": 13800
+  },
+  {
+    "name": "Renaix",
+    "name_nl": "Ronse",
+    "slug": "renaix-9600",
+    "zip": "9600",
+    "province_name": "Flandre-Orientale",
+    "province_code": "OVL",
+    "region": "Flandre",
+    "coordinates": {
+      "lat": 50.7476,
+      "lng": 3.602
+    },
+    "population": 26600
+  },
+  {
+    "name": "Sint-Gillis-Waas",
+    "name_nl": "Sint-Gillis-Waas",
+    "slug": "sint-gillis-waas-9170",
+    "zip": "9170",
+    "province_name": "Flandre-Orientale",
+    "province_code": "OVL",
+    "region": "Flandre",
+    "coordinates": {
+      "lat": 51.2565,
+      "lng": 4.0898
+    },
+    "population": 19500
+  },
+  {
+    "name": "Sint-Lievens-Houtem",
+    "name_nl": "Sint-Lievens-Houtem",
+    "slug": "sint-lievens-houtem-9520",
+    "zip": "9520",
+    "province_name": "Flandre-Orientale",
+    "province_code": "OVL",
+    "region": "Flandre",
+    "coordinates": {
+      "lat": 50.945,
+      "lng": 3.868
+    },
+    "population": 10400
+  },
+  {
+    "name": "Sint-Martens-Latem",
+    "name_nl": "Sint-Martens-Latem",
+    "slug": "sint-martens-latem-9830",
+    "zip": "9830",
+    "province_name": "Flandre-Orientale",
+    "province_code": "OVL",
+    "region": "Flandre",
+    "coordinates": {
+      "lat": 51.0134,
+      "lng": 3.6306
+    },
+    "population": 8600
+  },
+  {
+    "name": "Sint-Niklaas",
+    "name_nl": "Sint-Niklaas",
+    "slug": "sint-niklaas-9100",
+    "zip": "9100",
+    "province_name": "Flandre-Orientale",
+    "province_code": "OVL",
+    "region": "Flandre",
+    "coordinates": {
+      "lat": 51.1934,
+      "lng": 4.178
+    },
+    "population": 78000
+  },
+  {
+    "name": "Stekene",
+    "name_nl": "Stekene",
+    "slug": "stekene-9190",
+    "zip": "9190",
+    "province_name": "Flandre-Orientale",
+    "province_code": "OVL",
+    "region": "Flandre",
+    "coordinates": {
+      "lat": 51.2065,
+      "lng": 4.0771
+    },
+    "population": 18600
+  },
+  {
+    "name": "Tamise",
+    "name_nl": "Temse",
+    "slug": "tamise-9140",
+    "zip": "9140",
+    "province_name": "Flandre-Orientale",
+    "province_code": "OVL",
+    "region": "Flandre",
+    "coordinates": {
+      "lat": 51.1202,
+      "lng": 4.1458
+    },
+    "population": 30200
+  },
+  {
+    "name": "Termonde",
+    "name_nl": "Dendermonde",
+    "slug": "termonde-9200",
+    "zip": "9200",
+    "province_name": "Flandre-Orientale",
+    "province_code": "OVL",
+    "region": "Flandre",
+    "coordinates": {
+      "lat": 51.0298,
+      "lng": 4.0562
+    },
+    "population": 46000
+  },
+  {
+    "name": "Waasmunster",
+    "name_nl": "Waasmunster",
+    "slug": "waasmunster-9250",
+    "zip": "9250",
+    "province_name": "Flandre-Orientale",
+    "province_code": "OVL",
+    "region": "Flandre",
+    "coordinates": {
+      "lat": 51.1097,
+      "lng": 4.0842
+    },
+    "population": 10800
+  },
+  {
+    "name": "Wachtebeke",
+    "name_nl": "Wachtebeke",
+    "slug": "wachtebeke-9185",
+    "zip": "9185",
+    "province_name": "Flandre-Orientale",
+    "province_code": "OVL",
+    "region": "Flandre",
+    "coordinates": {
+      "lat": 51.1702,
+      "lng": 3.8574
+    },
+    "population": 7600
+  },
+  {
+    "name": "Wetteren",
+    "name_nl": "Wetteren",
+    "slug": "wetteren-9230",
+    "zip": "9230",
+    "province_name": "Flandre-Orientale",
+    "province_code": "OVL",
+    "region": "Flandre",
+    "coordinates": {
+      "lat": 50.9809,
+      "lng": 3.8736
+    },
+    "population": 25200
+  },
+  {
+    "name": "Wichelen",
+    "name_nl": "Wichelen",
+    "slug": "wichelen-9260",
+    "zip": "9260",
+    "province_name": "Flandre-Orientale",
+    "province_code": "OVL",
+    "region": "Flandre",
+    "coordinates": {
+      "lat": 51.0103,
+      "lng": 3.9281
+    },
+    "population": 12200
+  },
+  {
+    "name": "Wortegem-Petegem",
+    "name_nl": "Wortegem-Petegem",
+    "slug": "wortegem-petegem-9790",
+    "zip": "9790",
+    "province_name": "Flandre-Orientale",
+    "province_code": "OVL",
+    "region": "Flandre",
+    "coordinates": {
+      "lat": 50.8247,
+      "lng": 3.5366
+    },
+    "population": 6400
+  },
+  {
+    "name": "Zele",
+    "name_nl": "Zele",
+    "slug": "zele-9240",
+    "zip": "9240",
+    "province_name": "Flandre-Orientale",
+    "province_code": "OVL",
+    "region": "Flandre",
+    "coordinates": {
+      "lat": 51.0684,
+      "lng": 4.0386
+    },
+    "population": 21800
+  },
+  {
+    "name": "Zelzate",
+    "name_nl": "Zelzate",
+    "slug": "zelzate-9060",
+    "zip": "9060",
+    "province_name": "Flandre-Orientale",
+    "province_code": "OVL",
+    "region": "Flandre",
+    "coordinates": {
+      "lat": 51.2,
+      "lng": 3.8105
+    },
+    "population": 13000
+  },
+  {
+    "name": "Zottegem",
+    "name_nl": "Zottegem",
+    "slug": "zottegem-9620",
+    "zip": "9620",
+    "province_name": "Flandre-Orientale",
+    "province_code": "OVL",
+    "region": "Flandre",
+    "coordinates": {
+      "lat": 50.8908,
+      "lng": 3.8078
+    },
+    "population": 26800
+  },
+  {
+    "name": "Zulte",
+    "name_nl": "Zulte",
+    "slug": "zulte-9870",
+    "zip": "9870",
+    "province_name": "Flandre-Orientale",
+    "province_code": "OVL",
+    "region": "Flandre",
+    "coordinates": {
+      "lat": 50.9592,
+      "lng": 3.4859
+    },
+    "population": 15800
+  },
+  {
+    "name": "Zwalm",
+    "name_nl": "Zwalm",
+    "slug": "zwalm-9630",
+    "zip": "9630",
+    "province_name": "Flandre-Orientale",
+    "province_code": "OVL",
+    "region": "Flandre",
+    "coordinates": {
+      "lat": 50.9027,
+      "lng": 3.7198
+    },
+    "population": 8200
+  },
+  {
+    "name": "Alken",
+    "name_nl": "Alken",
+    "slug": "alken-3570",
+    "zip": "3570",
+    "province_name": "Limbourg",
+    "province_code": "LIM",
+    "region": "Flandre",
+    "coordinates": {
+      "lat": 50.8755,
+      "lng": 5.308
+    },
+    "population": 12000
+  },
+  {
+    "name": "As",
+    "name_nl": "As",
+    "slug": "as-3665",
+    "zip": "3665",
+    "province_name": "Limbourg",
+    "province_code": "LIM",
+    "region": "Flandre",
+    "coordinates": {
+      "lat": 51.0005,
+      "lng": 5.5722
+    },
+    "population": 8200
+  },
+  {
+    "name": "Beringen",
+    "name_nl": "Beringen",
+    "slug": "beringen-3580",
+    "zip": "3580",
+    "province_name": "Limbourg",
+    "province_code": "LIM",
+    "region": "Flandre",
+    "coordinates": {
+      "lat": 51.0502,
+      "lng": 5.2208
+    },
+    "population": 46800
+  },
+  {
+    "name": "Bilzen",
+    "name_nl": "Bilzen",
+    "slug": "bilzen-3740",
+    "zip": "3740",
+    "province_name": "Limbourg",
+    "province_code": "LIM",
+    "region": "Flandre",
+    "coordinates": {
+      "lat": 50.8922,
+      "lng": 5.4735
+    },
+    "population": 33000
+  },
+  {
+    "name": "Bocholt",
+    "name_nl": "Bocholt",
+    "slug": "bocholt-3950",
+    "zip": "3950",
+    "province_name": "Limbourg",
+    "province_code": "LIM",
+    "region": "Flandre",
+    "coordinates": {
+      "lat": 51.1925,
+      "lng": 5.5996
+    },
+    "population": 13600
+  },
+  {
+    "name": "Borgloon",
+    "name_nl": "Borgloon",
+    "slug": "borgloon-3840",
+    "zip": "3840",
+    "province_name": "Limbourg",
+    "province_code": "LIM",
+    "region": "Flandre",
+    "coordinates": {
+      "lat": 50.7852,
+      "lng": 5.3824
+    },
+    "population": 10800
+  },
+  {
+    "name": "Bree",
+    "name_nl": "Bree",
+    "slug": "bree-3960",
+    "zip": "3960",
+    "province_name": "Limbourg",
+    "province_code": "LIM",
+    "region": "Flandre",
+    "coordinates": {
+      "lat": 51.1661,
+      "lng": 5.6378
+    },
+    "population": 16200
+  },
+  {
+    "name": "Diepenbeek",
+    "name_nl": "Diepenbeek",
+    "slug": "diepenbeek-3590",
+    "zip": "3590",
+    "province_name": "Limbourg",
+    "province_code": "LIM",
+    "region": "Flandre",
+    "coordinates": {
+      "lat": 50.9078,
+      "lng": 5.42
+    },
+    "population": 19500
+  },
+  {
+    "name": "Dilsen-Stokkem",
+    "name_nl": "Dilsen-Stokkem",
+    "slug": "dilsen-stokkem-3650",
+    "zip": "3650",
+    "province_name": "Limbourg",
+    "province_code": "LIM",
+    "region": "Flandre",
+    "coordinates": {
+      "lat": 51.0329,
+      "lng": 5.6991
+    },
+    "population": 20600
+  },
+  {
+    "name": "Fourons",
+    "name_nl": "Voeren",
+    "slug": "fourons-3790",
+    "zip": "3790",
+    "province_name": "Limbourg",
+    "province_code": "LIM",
+    "region": "Flandre",
+    "coordinates": {
+      "lat": 50.7409,
+      "lng": 5.8429
+    },
+    "population": 4400
+  },
+  {
+    "name": "Genk",
+    "name_nl": "Genk",
+    "slug": "genk-3600",
+    "zip": "3600",
+    "province_name": "Limbourg",
+    "province_code": "LIM",
+    "region": "Flandre",
+    "coordinates": {
+      "lat": 50.9655,
+      "lng": 5.5001
+    },
+    "population": 67000
+  },
+  {
+    "name": "Gingelom",
+    "name_nl": "Gingelom",
+    "slug": "gingelom-3890",
+    "zip": "3890",
+    "province_name": "Limbourg",
+    "province_code": "LIM",
+    "region": "Flandre",
+    "coordinates": {
+      "lat": 50.7456,
+      "lng": 5.2314
+    },
+    "population": 8400
+  },
+  {
+    "name": "Halen",
+    "name_nl": "Halen",
+    "slug": "halen-3545",
+    "zip": "3545",
+    "province_name": "Limbourg",
+    "province_code": "LIM",
+    "region": "Flandre",
+    "coordinates": {
+      "lat": 50.9384,
+      "lng": 5.1074
+    },
+    "population": 10000
+  },
+  {
+    "name": "Ham",
+    "name_nl": "Ham",
+    "slug": "ham-3945",
+    "zip": "3945",
+    "province_name": "Limbourg",
+    "province_code": "LIM",
+    "region": "Flandre",
+    "coordinates": {
+      "lat": 51.1142,
+      "lng": 5.1781
+    },
+    "population": 10200
+  },
+  {
+    "name": "Hamont-Achel",
+    "name_nl": "Hamont-Achel",
+    "slug": "hamont-achel-3930",
+    "zip": "3930",
+    "province_name": "Limbourg",
+    "province_code": "LIM",
+    "region": "Flandre",
+    "coordinates": {
+      "lat": 51.2684,
+      "lng": 5.4793
+    },
+    "population": 14500
+  },
+  {
+    "name": "Hasselt",
+    "name_nl": "Hasselt",
+    "slug": "hasselt-3500",
+    "zip": "3500",
+    "province_name": "Limbourg",
+    "province_code": "LIM",
+    "region": "Flandre",
+    "coordinates": {
+      "lat": 50.9304,
+      "lng": 5.3368
+    },
+    "population": 79000
+  },
+  {
+    "name": "Hechtel-Eksel",
+    "name_nl": "Hechtel-Eksel",
+    "slug": "hechtel-eksel-3940",
+    "zip": "3940",
+    "province_name": "Limbourg",
+    "province_code": "LIM",
+    "region": "Flandre",
+    "coordinates": {
+      "lat": 51.1166,
+      "lng": 5.3416
+    },
+    "population": 12700
+  },
+  {
+    "name": "Heers",
+    "name_nl": "Heers",
+    "slug": "heers-3870",
+    "zip": "3870",
+    "province_name": "Limbourg",
+    "province_code": "LIM",
+    "region": "Flandre",
+    "coordinates": {
+      "lat": 50.7382,
+      "lng": 5.2808
+    },
+    "population": 7400
+  },
+  {
+    "name": "Herck-la-Ville",
+    "name_nl": "Herk-de-Stad",
+    "slug": "herck-la-ville-3540",
+    "zip": "3540",
+    "province_name": "Limbourg",
+    "province_code": "LIM",
+    "region": "Flandre",
+    "coordinates": {
+      "lat": 50.9488,
+      "lng": 5.2099
+    },
+    "population": 12800
+  },
+  {
+    "name": "Heusden-Zolder",
+    "name_nl": "Heusden-Zolder",
+    "slug": "heusden-zolder-3550",
+    "zip": "3550",
+    "province_name": "Limbourg",
+    "province_code": "LIM",
+    "region": "Flandre",
+    "coordinates": {
+      "lat": 51.0415,
+      "lng": 5.2836
+    },
+    "population": 32700
+  },
+  {
+    "name": "Hoeselt",
+    "name_nl": "Hoeselt",
+    "slug": "hoeselt-3730",
+    "zip": "3730",
+    "province_name": "Limbourg",
+    "province_code": "LIM",
+    "region": "Flandre",
+    "coordinates": {
+      "lat": 50.8501,
+      "lng": 5.4865
+    },
+    "population": 10100
+  },
+  {
+    "name": "Kinrooi",
+    "name_nl": "Kinrooi",
+    "slug": "kinrooi-3640",
+    "zip": "3640",
+    "province_name": "Limbourg",
+    "province_code": "LIM",
+    "region": "Flandre",
+    "coordinates": {
+      "lat": 51.1492,
+      "lng": 5.8089
+    },
+    "population": 12800
+  },
+  {
+    "name": "Kortessem",
+    "name_nl": "Kortessem",
+    "slug": "kortessem-3720",
+    "zip": "3720",
+    "province_name": "Limbourg",
+    "province_code": "LIM",
+    "region": "Flandre",
+    "coordinates": {
+      "lat": 50.862,
+      "lng": 5.377
+    },
+    "population": 8600
+  },
+  {
+    "name": "Lanaken",
+    "name_nl": "Lanaken",
+    "slug": "lanaken-3620",
+    "zip": "3620",
+    "province_name": "Limbourg",
+    "province_code": "LIM",
+    "region": "Flandre",
+    "coordinates": {
+      "lat": 50.8839,
+      "lng": 5.6091
+    },
+    "population": 26800
+  },
+  {
+    "name": "Leopoldsburg",
+    "name_nl": "Leopoldsburg",
+    "slug": "leopoldsburg-3970",
+    "zip": "3970",
+    "province_name": "Limbourg",
+    "province_code": "LIM",
+    "region": "Flandre",
+    "coordinates": {
+      "lat": 51.1221,
+      "lng": 5.2639
+    },
+    "population": 15800
+  },
+  {
+    "name": "Lommel",
+    "name_nl": "Lommel",
+    "slug": "lommel-3920",
+    "zip": "3920",
+    "province_name": "Limbourg",
+    "province_code": "LIM",
+    "region": "Flandre",
+    "coordinates": {
+      "lat": 51.2306,
+      "lng": 5.3077
+    },
+    "population": 34800
+  },
+  {
+    "name": "Lummen",
+    "name_nl": "Lummen",
+    "slug": "lummen-3560",
+    "zip": "3560",
+    "province_name": "Limbourg",
+    "province_code": "LIM",
+    "region": "Flandre",
+    "coordinates": {
+      "lat": 50.9658,
+      "lng": 5.1373
+    },
+    "population": 15200
+  },
+  {
+    "name": "Maaseik",
+    "name_nl": "Maaseik",
+    "slug": "maaseik-3680",
+    "zip": "3680",
+    "province_name": "Limbourg",
+    "province_code": "LIM",
+    "region": "Flandre",
+    "coordinates": {
+      "lat": 51.0947,
+      "lng": 5.7917
+    },
+    "population": 26500
+  },
+  {
+    "name": "Maasmechelen",
+    "name_nl": "Maasmechelen",
+    "slug": "maasmechelen-3630",
+    "zip": "3630",
+    "province_name": "Limbourg",
+    "province_code": "LIM",
+    "region": "Flandre",
+    "coordinates": {
+      "lat": 50.9863,
+      "lng": 5.7129
+    },
+    "population": 39000
+  },
+  {
+    "name": "Nieuwerkerken",
+    "name_nl": "Nieuwerkerken",
+    "slug": "nieuwerkerken-3850",
+    "zip": "3850",
+    "province_name": "Limbourg",
+    "province_code": "LIM",
+    "region": "Flandre",
+    "coordinates": {
+      "lat": 50.8655,
+      "lng": 5.1684
+    },
+    "population": 7000
+  },
+  {
+    "name": "Oudsbergen",
+    "name_nl": "Oudsbergen",
+    "slug": "oudsbergen-3660",
+    "zip": "3660",
+    "province_name": "Limbourg",
+    "province_code": "LIM",
+    "region": "Flandre",
+    "coordinates": {
+      "lat": 51.043,
+      "lng": 5.582
+    },
+    "population": 26500
+  },
+  {
+    "name": "Peer",
+    "name_nl": "Peer",
+    "slug": "peer-3990",
+    "zip": "3990",
+    "province_name": "Limbourg",
+    "province_code": "LIM",
+    "region": "Flandre",
+    "coordinates": {
+      "lat": 51.142,
+      "lng": 5.5087
+    },
+    "population": 17000
+  },
+  {
+    "name": "Pelt",
+    "name_nl": "Pelt",
+    "slug": "pelt-3900",
+    "zip": "3900",
+    "province_name": "Limbourg",
+    "province_code": "LIM",
+    "region": "Flandre",
+    "coordinates": {
+      "lat": 51.2113,
+      "lng": 5.423
+    },
+    "population": 33500
+  },
+  {
+    "name": "Riemst",
+    "name_nl": "Riemst",
+    "slug": "riemst-3770",
+    "zip": "3770",
+    "province_name": "Limbourg",
+    "province_code": "LIM",
+    "region": "Flandre",
+    "coordinates": {
+      "lat": 50.8018,
+      "lng": 5.5369
+    },
+    "population": 16800
+  },
+  {
+    "name": "Saint-Trond",
+    "name_nl": "Sint-Truiden",
+    "slug": "saint-trond-3800",
+    "zip": "3800",
+    "province_name": "Limbourg",
+    "province_code": "LIM",
+    "region": "Flandre",
+    "coordinates": {
+      "lat": 50.7814,
+      "lng": 5.2128
+    },
+    "population": 41000
+  },
+  {
+    "name": "Tessenderlo",
+    "name_nl": "Tessenderlo",
+    "slug": "tessenderlo-3980",
+    "zip": "3980",
+    "province_name": "Limbourg",
+    "province_code": "LIM",
+    "region": "Flandre",
+    "coordinates": {
+      "lat": 51.0682,
+      "lng": 5.0894
+    },
+    "population": 18400
+  },
+  {
+    "name": "Tongres",
+    "name_nl": "Tongeren",
+    "slug": "tongres-3700",
+    "zip": "3700",
+    "province_name": "Limbourg",
+    "province_code": "LIM",
+    "region": "Flandre",
+    "coordinates": {
+      "lat": 50.8065,
+      "lng": 5.503
+    },
+    "population": 32000
+  },
+  {
+    "name": "Wellen",
+    "name_nl": "Wellen",
+    "slug": "wellen-3830",
+    "zip": "3830",
+    "province_name": "Limbourg",
+    "province_code": "LIM",
+    "region": "Flandre",
+    "coordinates": {
+      "lat": 50.8234,
+      "lng": 5.3112
+    },
+    "population": 7300
+  },
+  {
+    "name": "Zonhoven",
+    "name_nl": "Zonhoven",
+    "slug": "zonhoven-3520",
+    "zip": "3520",
+    "province_name": "Limbourg",
+    "province_code": "LIM",
+    "region": "Flandre",
+    "coordinates": {
+      "lat": 50.991,
+      "lng": 5.3678
+    },
+    "population": 21600
+  },
+  {
+    "name": "Zutendaal",
+    "name_nl": "Zutendaal",
+    "slug": "zutendaal-3690",
+    "zip": "3690",
+    "province_name": "Limbourg",
+    "province_code": "LIM",
+    "region": "Flandre",
+    "coordinates": {
+      "lat": 50.9319,
+      "lng": 5.5726
+    },
+    "population": 7400
+  }
+]
