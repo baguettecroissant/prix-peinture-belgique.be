@@ -1,4 +1,5 @@
 import Link from 'next/link';
+import Image from 'next/image';
 import LeadForm from './components/LeadForm';
 import FAQ from './components/FAQ';
 import { paintingPrices, hourlyRates } from './data/prices';
@@ -78,6 +79,12 @@ export default function HomePage() {
             </div>
           </div>
         </div>
+      </section>
+
+      {/* Hero Image */}
+      <section style={{ position: 'relative', width: '100%', height: '300px', overflow: 'hidden' }}>
+        <Image src="/images/hero-homepage.png" alt="Salon belge élégant en cours de peinture – rouleau professionnel et pots Levis" fill style={{ objectFit: 'cover', objectPosition: 'center 45%' }} priority sizes="100vw" />
+        <div style={{ position: 'absolute', bottom: 0, left: 0, right: 0, height: '100px', background: 'linear-gradient(to top, var(--bg-primary), transparent)' }} />
       </section>
 
       <div className="brush-separator" />
